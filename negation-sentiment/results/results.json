@@ -1,0 +1,361 @@
+{
+  "n_seeds": 44,
+  "n_suite_items": 263,
+  "n_natural": 149,
+  "llm_prompts": [
+    "p1",
+    "p2",
+    "p3"
+  ],
+  "models": {
+    "VADER": {
+      "seed_acc": 70.45454545454545,
+      "perturbed_acc": 63.013698630136986,
+      "drop": 7.440846824408467,
+      "drop_ci": [
+        -4.422348484848488,
+        18.185969281859695
+      ],
+      "error_by_phenomenon": {
+        "negation": {
+          "error": 43.18181818181818,
+          "ci": [
+            29.488636363636417,
+            56.81818181818182
+          ],
+          "n": 44
+        },
+        "double_negation": {
+          "error": 27.906976744186053,
+          "ci": [
+            13.95348837209302,
+            41.860465116279066
+          ],
+          "n": 43
+        },
+        "contrast": {
+          "error": 34.09090909090909,
+          "ci": [
+            20.454545454545453,
+            47.72727272727273
+          ],
+          "n": 44
+        },
+        "intensifier": {
+          "error": 29.54545454545454,
+          "ci": [
+            15.909090909090907,
+            43.18181818181818
+          ],
+          "n": 44
+        },
+        "negated_intensifier": {
+          "error": 50.0,
+          "ci": [
+            36.36363636363637,
+            63.63636363636363
+          ],
+          "n": 44
+        }
+      },
+      "natural_acc": 59.06040268456376,
+      "natural_acc_ci": [
+        51.006711409395976,
+        66.44295302013423
+      ]
+    },
+    "RoBERTa": {
+      "seed_acc": 100.0,
+      "perturbed_acc": 78.53881278538812,
+      "drop": 21.461187214611883,
+      "drop_ci": [
+        16.354088833540896,
+        26.940639269406397
+      ],
+      "error_by_phenomenon": {
+        "negation": {
+          "error": 31.818181818181824,
+          "ci": [
+            18.181818181818173,
+            45.51136363636363
+          ],
+          "n": 44
+        },
+        "double_negation": {
+          "error": 25.581395348837212,
+          "ci": [
+            13.95348837209302,
+            39.53488372093024
+          ],
+          "n": 43
+        },
+        "contrast": {
+          "error": 2.2727272727272707,
+          "ci": [
+            0.0,
+            6.818181818181827
+          ],
+          "n": 44
+        },
+        "intensifier": {
+          "error": 0.0,
+          "ci": [
+            0.0,
+            0.0
+          ],
+          "n": 44
+        },
+        "negated_intensifier": {
+          "error": 47.72727272727273,
+          "ci": [
+            34.09090909090909,
+            63.63636363636363
+          ],
+          "n": 44
+        }
+      },
+      "natural_acc": 93.95973154362416,
+      "natural_acc_ci": [
+        89.93288590604027,
+        97.33221476510066
+      ]
+    },
+    "LLM": {
+      "seed_acc": 95.45454545454545,
+      "perturbed_acc": 68.34094368340942,
+      "drop": 27.113601771136032,
+      "drop_ci": [
+        21.996802891298294,
+        31.511032297598803
+      ],
+      "error_by_phenomenon": {
+        "negation": {
+          "error": 40.90909090909091,
+          "ci": [
+            28.787878787878796,
+            53.03030303030303
+          ],
+          "n": 44
+        },
+        "double_negation": {
+          "error": 36.434108527131784,
+          "ci": [
+            24.03100775193799,
+            49.612403100775204
+          ],
+          "n": 43
+        },
+        "contrast": {
+          "error": 31.060606060606045,
+          "ci": [
+            19.696969696969717,
+            42.42424242424243
+          ],
+          "n": 44
+        },
+        "intensifier": {
+          "error": 6.060606060606066,
+          "ci": [
+            1.5151515151515156,
+            12.121212121212125
+          ],
+          "n": 44
+        },
+        "negated_intensifier": {
+          "error": 43.93939393939393,
+          "ci": [
+            31.060606060606062,
+            56.81818181818183
+          ],
+          "n": 44
+        }
+      },
+      "natural_acc": 87.47203579418345,
+      "natural_acc_ci": [
+        83.44519015659955,
+        91.49888143176732
+      ]
+    }
+  },
+  "agreement": {
+    "kappa": 1.0,
+    "n_items": 80,
+    "raw_agreement": 1.0,
+    "cohens_kappa": 1.0,
+    "n_disagreements": 0,
+    "note": "80-item random sample of the suite, labelled independently and blind by both authors before any discussion",
+    "marginals": {
+      "A": {
+        "neg": 46,
+        "pos": 34
+      },
+      "B": {
+        "neg": 46,
+        "pos": 34
+      }
+    },
+    "items_where_both_raters_overrode_the_rule_derived_label": [
+      "S049-double_negation",
+      "S073-negation",
+      "S073-negated_intensifier",
+      "S169-double_negation"
+    ]
+  },
+  "llm_prompt_sensitivity": {
+    "per_prompt": {
+      "p1": {
+        "seed_acc": 97.72727272727273,
+        "perturbed_acc": 69.40639269406392
+      },
+      "p2": {
+        "seed_acc": 97.72727272727273,
+        "perturbed_acc": 74.42922374429224
+      },
+      "p3": {
+        "seed_acc": 90.9090909090909,
+        "perturbed_acc": 61.18721461187214
+      }
+    },
+    "perturbed_acc_range": [
+      61.18721461187214,
+      74.42922374429224
+    ]
+  },
+  "mcnemar": [
+    {
+      "model": "VADER",
+      "phenomenon": "negation",
+      "b_seed_right_pert_wrong": 18,
+      "c_seed_wrong_pert_right": 12,
+      "p": 0.36159460805356514,
+      "p_bonferroni": 1.0,
+      "significant": false
+    },
+    {
+      "model": "VADER",
+      "phenomenon": "double_negation",
+      "b_seed_right_pert_wrong": 5,
+      "c_seed_wrong_pert_right": 5,
+      "p": 1.0,
+      "p_bonferroni": 1.0,
+      "significant": false
+    },
+    {
+      "model": "VADER",
+      "phenomenon": "contrast",
+      "b_seed_right_pert_wrong": 2,
+      "c_seed_wrong_pert_right": 0,
+      "p": 0.5,
+      "p_bonferroni": 1.0,
+      "significant": false
+    },
+    {
+      "model": "VADER",
+      "phenomenon": "intensifier",
+      "b_seed_right_pert_wrong": 0,
+      "c_seed_wrong_pert_right": 0,
+      "p": 1.0,
+      "p_bonferroni": 1.0,
+      "significant": false
+    },
+    {
+      "model": "VADER",
+      "phenomenon": "negated_intensifier",
+      "b_seed_right_pert_wrong": 21,
+      "c_seed_wrong_pert_right": 12,
+      "p": 0.16275565745308995,
+      "p_bonferroni": 1.0,
+      "significant": false
+    },
+    {
+      "model": "RoBERTa",
+      "phenomenon": "negation",
+      "b_seed_right_pert_wrong": 14,
+      "c_seed_wrong_pert_right": 0,
+      "p": 0.0001220703125,
+      "p_bonferroni": 0.0018310546875,
+      "significant": true
+    },
+    {
+      "model": "RoBERTa",
+      "phenomenon": "double_negation",
+      "b_seed_right_pert_wrong": 11,
+      "c_seed_wrong_pert_right": 0,
+      "p": 0.0009765625,
+      "p_bonferroni": 0.0146484375,
+      "significant": true
+    },
+    {
+      "model": "RoBERTa",
+      "phenomenon": "contrast",
+      "b_seed_right_pert_wrong": 1,
+      "c_seed_wrong_pert_right": 0,
+      "p": 1.0,
+      "p_bonferroni": 1.0,
+      "significant": false
+    },
+    {
+      "model": "RoBERTa",
+      "phenomenon": "intensifier",
+      "b_seed_right_pert_wrong": 0,
+      "c_seed_wrong_pert_right": 0,
+      "p": 1.0,
+      "p_bonferroni": 1.0,
+      "significant": false
+    },
+    {
+      "model": "RoBERTa",
+      "phenomenon": "negated_intensifier",
+      "b_seed_right_pert_wrong": 21,
+      "c_seed_wrong_pert_right": 0,
+      "p": 9.5367431640625e-07,
+      "p_bonferroni": 1.430511474609375e-05,
+      "significant": true
+    },
+    {
+      "model": "LLM",
+      "phenomenon": "negation",
+      "b_seed_right_pert_wrong": 17,
+      "c_seed_wrong_pert_right": 0,
+      "p": 1.52587890625e-05,
+      "p_bonferroni": 0.0002288818359375,
+      "significant": true
+    },
+    {
+      "model": "LLM",
+      "phenomenon": "double_negation",
+      "b_seed_right_pert_wrong": 15,
+      "c_seed_wrong_pert_right": 1,
+      "p": 0.000518798828125,
+      "p_bonferroni": 0.007781982421875,
+      "significant": true
+    },
+    {
+      "model": "LLM",
+      "phenomenon": "contrast",
+      "b_seed_right_pert_wrong": 11,
+      "c_seed_wrong_pert_right": 0,
+      "p": 0.0009765625,
+      "p_bonferroni": 0.0146484375,
+      "significant": true
+    },
+    {
+      "model": "LLM",
+      "phenomenon": "intensifier",
+      "b_seed_right_pert_wrong": 1,
+      "c_seed_wrong_pert_right": 0,
+      "p": 1.0,
+      "p_bonferroni": 1.0,
+      "significant": false
+    },
+    {
+      "model": "LLM",
+      "phenomenon": "negated_intensifier",
+      "b_seed_right_pert_wrong": 21,
+      "c_seed_wrong_pert_right": 1,
+      "p": 1.0967254638671875e-05,
+      "p_bonferroni": 0.00016450881958007812,
+      "significant": true
+    }
+  ]
+}

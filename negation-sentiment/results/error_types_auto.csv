@@ -1,0 +1,197 @@
+item_id,model,phenomenon,gold,pred,seed_pred,seed_gold,type
+S011-contrast,VADER,contrast,neg,pos,pos,neg,already wrong on the seed
+S011-intensifier,VADER,intensifier,neg,pos,pos,neg,already wrong on the seed
+S012-negation,VADER,negation,pos,neg,neg,neg,operator ignored
+S012-negated_intensifier,VADER,negated_intensifier,pos,neg,neg,neg,operator ignored
+S020-negation,VADER,negation,pos,neg,neg,neg,operator ignored
+S020-double_negation,VADER,double_negation,neg,pos,neg,neg,over-applied / other
+S020-negated_intensifier,VADER,negated_intensifier,pos,neg,neg,neg,operator ignored
+S021-double_negation,VADER,double_negation,neg,pos,pos,neg,already wrong on the seed
+S021-contrast,VADER,contrast,neg,pos,pos,neg,already wrong on the seed
+S021-intensifier,VADER,intensifier,neg,pos,pos,neg,already wrong on the seed
+S024-double_negation,VADER,double_negation,neg,pos,pos,neg,already wrong on the seed
+S024-contrast,VADER,contrast,neg,pos,pos,neg,already wrong on the seed
+S024-intensifier,VADER,intensifier,neg,pos,pos,neg,already wrong on the seed
+S031-double_negation,VADER,double_negation,neg,pos,pos,neg,already wrong on the seed
+S031-contrast,VADER,contrast,neg,pos,pos,neg,already wrong on the seed
+S031-intensifier,VADER,intensifier,neg,pos,pos,neg,already wrong on the seed
+S032-negation,VADER,negation,pos,neg,neg,neg,operator ignored
+S032-contrast,VADER,contrast,neg,pos,neg,neg,over-applied / other
+S032-negated_intensifier,VADER,negated_intensifier,pos,neg,neg,neg,operator ignored
+S033-double_negation,VADER,double_negation,neg,pos,pos,neg,already wrong on the seed
+S033-contrast,VADER,contrast,neg,pos,pos,neg,already wrong on the seed
+S033-intensifier,VADER,intensifier,neg,pos,pos,neg,already wrong on the seed
+S034-contrast,VADER,contrast,neg,pos,neg,neg,over-applied / other
+S046-negation,VADER,negation,pos,neg,neg,neg,operator ignored
+S046-double_negation,VADER,double_negation,neg,pos,neg,neg,over-applied / other
+S046-negated_intensifier,VADER,negated_intensifier,pos,neg,neg,neg,operator ignored
+S049-contrast,VADER,contrast,neg,pos,pos,neg,already wrong on the seed
+S049-intensifier,VADER,intensifier,neg,pos,pos,neg,already wrong on the seed
+S064-contrast,VADER,contrast,neg,pos,pos,neg,already wrong on the seed
+S064-intensifier,VADER,intensifier,neg,pos,pos,neg,already wrong on the seed
+S068-negated_intensifier,VADER,negated_intensifier,pos,neg,neg,neg,operator ignored
+S073-contrast,VADER,contrast,neg,pos,pos,neg,already wrong on the seed
+S073-intensifier,VADER,intensifier,neg,pos,pos,neg,already wrong on the seed
+S074-negation,VADER,negation,pos,neg,neg,neg,operator ignored
+S074-negated_intensifier,VADER,negated_intensifier,pos,neg,neg,neg,operator ignored
+S076-contrast,VADER,contrast,neg,pos,pos,neg,already wrong on the seed
+S076-intensifier,VADER,intensifier,neg,pos,pos,neg,already wrong on the seed
+S078-double_negation,VADER,double_negation,neg,pos,pos,neg,already wrong on the seed
+S078-contrast,VADER,contrast,neg,pos,pos,neg,already wrong on the seed
+S078-intensifier,VADER,intensifier,neg,pos,pos,neg,already wrong on the seed
+S085-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S085-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S089-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S089-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S096-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S096-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S102-double_negation,VADER,double_negation,pos,neg,neg,pos,already wrong on the seed
+S102-contrast,VADER,contrast,pos,neg,neg,pos,already wrong on the seed
+S102-intensifier,VADER,intensifier,pos,neg,neg,pos,already wrong on the seed
+S104-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S104-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S105-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S105-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S114-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S114-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S116-negation,VADER,negation,neg,pos,neg,pos,already wrong on the seed
+S116-contrast,VADER,contrast,pos,neg,neg,pos,already wrong on the seed
+S116-intensifier,VADER,intensifier,pos,neg,neg,pos,already wrong on the seed
+S119-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S119-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S120-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S120-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S121-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S121-double_negation,VADER,double_negation,pos,neg,pos,pos,over-applied / other
+S121-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S124-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S124-double_negation,VADER,double_negation,pos,neg,pos,pos,over-applied / other
+S124-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S130-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S130-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S137-double_negation,VADER,double_negation,pos,neg,neg,pos,already wrong on the seed
+S137-contrast,VADER,contrast,pos,neg,neg,pos,already wrong on the seed
+S137-intensifier,VADER,intensifier,pos,neg,neg,pos,already wrong on the seed
+S137-negated_intensifier,VADER,negated_intensifier,neg,pos,neg,pos,already wrong on the seed
+S144-double_negation,VADER,double_negation,pos,neg,pos,pos,over-applied / other
+S144-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S151-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S168-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S168-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S173-negation,VADER,negation,neg,pos,pos,pos,operator ignored
+S173-negated_intensifier,VADER,negated_intensifier,neg,pos,pos,pos,operator ignored
+S005-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S011-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S012-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S012-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S016-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S018-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S018-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S020-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S020-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S021-double_negation,RoBERTa,double_negation,neg,pos,neg,neg,over-applied / other
+S021-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S024-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S024-contrast,RoBERTa,contrast,neg,pos,neg,neg,over-applied / other
+S024-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S031-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S031-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S032-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S032-double_negation,RoBERTa,double_negation,neg,pos,neg,neg,over-applied / other
+S032-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S033-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S033-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S034-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S034-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S041-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S046-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S046-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S049-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S049-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S064-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S064-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S068-double_negation,RoBERTa,double_negation,neg,pos,neg,neg,over-applied / other
+S068-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S072-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S074-negation,RoBERTa,negation,pos,neg,neg,neg,operator ignored
+S074-negated_intensifier,RoBERTa,negated_intensifier,pos,neg,neg,neg,operator ignored
+S085-double_negation,RoBERTa,double_negation,pos,neg,pos,pos,over-applied / other
+S104-double_negation,RoBERTa,double_negation,pos,neg,pos,pos,over-applied / other
+S105-negation,RoBERTa,negation,neg,pos,pos,pos,operator ignored
+S105-negated_intensifier,RoBERTa,negated_intensifier,neg,pos,pos,pos,operator ignored
+S116-negation,RoBERTa,negation,neg,pos,pos,pos,operator ignored
+S116-negated_intensifier,RoBERTa,negated_intensifier,neg,pos,pos,pos,operator ignored
+S119-double_negation,RoBERTa,double_negation,pos,neg,pos,pos,over-applied / other
+S120-double_negation,RoBERTa,double_negation,pos,neg,pos,pos,over-applied / other
+S121-double_negation,RoBERTa,double_negation,pos,neg,pos,pos,over-applied / other
+S124-double_negation,RoBERTa,double_negation,pos,neg,pos,pos,over-applied / other
+S137-double_negation,RoBERTa,double_negation,pos,neg,pos,pos,over-applied / other
+S144-double_negation,RoBERTa,double_negation,pos,neg,pos,pos,over-applied / other
+S005-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S005-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S011-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S012-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S012-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S016-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S016-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S020-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S020-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S021-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S021-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S024-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S024-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S031-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S031-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S032-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S032-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S033-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S033-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S034-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S034-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S041-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S046-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S046-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S049-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S049-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S064-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S064-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S068-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S068-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S073-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S074-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S074-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S076-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S076-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S078-negated_intensifier,LLM,negated_intensifier,pos,neg,neg,neg,operator ignored
+S078-negation,LLM,negation,pos,neg,neg,neg,operator ignored
+S085-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S085-negated_intensifier,LLM,negated_intensifier,neg,pos,pos,pos,operator ignored
+S096-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S102-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S102-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S104-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S104-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S105-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S105-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S114-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S114-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S116-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S116-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S119-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S119-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S119-intensifier,LLM,intensifier,pos,neg,pos,pos,over-applied / other
+S120-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S121-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S125-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S125-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S130-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S130-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S137-contrast,LLM,contrast,pos,neg,neg,pos,already wrong on the seed
+S137-intensifier,LLM,intensifier,pos,neg,neg,pos,already wrong on the seed
+S137-negation,LLM,negation,neg,pos,neg,pos,already wrong on the seed
+S144-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S144-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S161-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S168-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other
+S169-contrast,LLM,contrast,pos,neg,pos,pos,over-applied / other
+S173-double_negation,LLM,double_negation,pos,neg,pos,pos,over-applied / other

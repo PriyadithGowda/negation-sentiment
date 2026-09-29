@@ -1,0 +1,24 @@
+{
+  "kappa": 1.0,
+  "n_items": 80,
+  "raw_agreement": 1.0,
+  "cohens_kappa": 1.0,
+  "n_disagreements": 0,
+  "note": "80-item random sample of the suite, labelled independently and blind by both authors before any discussion",
+  "marginals": {
+    "A": {
+      "neg": 46,
+      "pos": 34
+    },
+    "B": {
+      "neg": 46,
+      "pos": 34
+    }
+  },
+  "items_where_both_raters_overrode_the_rule_derived_label": [
+    "S049-double_negation",
+    "S073-negation",
+    "S073-negated_intensifier",
+    "S169-double_negation"
+  ]
+}

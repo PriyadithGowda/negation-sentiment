@@ -1,0 +1,746 @@
+item_id,source,model,prompt_id,pred,gold,text
+N000,natural,VADER,-,pos,neg,"if looking for a thrilling sci-fi cinematic ride , do n't settle for this imposter ."
+N001,natural,VADER,-,pos,neg,the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second .
+N002,natural,VADER,-,neg,neg,"the film contains no good jokes , no good scenes , barely a moment when carvey 's saturday night live-honed mimicry rises above the level of embarrassment ."
+N003,natural,VADER,-,neg,neg,the script is n't very good ; not even someone as gifted as hoffman ( the actor ) can make it work .
+N004,natural,VADER,-,pos,neg,burns never really harnesses to full effect the energetic cast .
+N005,natural,VADER,-,pos,neg,"i 've always dreamed of attending cannes , but after seeing this film , it 's not that big a deal ."
+N006,natural,VADER,-,neg,neg,"at the very least , if you do n't know anything about derrida when you walk into the theater , you wo n't know much more when you leave ."
+N007,natural,VADER,-,pos,neg,stealing harvard aspires to comedic grand larceny but stands convicted of nothing more than petty theft of your time .
+N008,natural,VADER,-,pos,neg,"it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks ."
+N009,natural,VADER,-,pos,neg,"with the exception of some fleetingly amusing improvisations by cedric the entertainer as perry 's boss , there is n't a redeeming moment here ."
+N010,natural,VADER,-,neg,neg,"the title not only describes its main characters , but the lazy people behind the camera as well ."
+N011,natural,VADER,-,pos,neg,overall the film feels like a low-budget tv pilot that could not find a buyer to play it on the tube .
+N012,natural,VADER,-,neg,neg,no one but a convict guilty of some truly heinous crime should have to sit through the master of disguise .
+N013,natural,VADER,-,pos,neg,there 's not enough here to justify the almost two hours .
+N014,natural,VADER,-,neg,neg,... nothing scary here except for some awful acting and lame special effects .
+N015,natural,VADER,-,pos,neg,the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it .
+N016,natural,VADER,-,pos,neg,davis ... is so enamored of her own creation that she ca n't see how insufferable the character is .
+N017,natural,VADER,-,pos,neg,what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about .
+N018,natural,VADER,-,neg,neg,not since freddy got fingered has a major release been so painful to sit through .
+N019,natural,VADER,-,neg,neg,"too often , the viewer is n't reacting to humor so much as they are wincing back in repugnance ."
+N020,natural,VADER,-,neg,neg,"in an effort , i suspect , not to offend by appearing either too serious or too lighthearted , it offends by just being wishy-washy ."
+N021,natural,VADER,-,neg,neg,"does n't offer much besides glib soullessness , raunchy language and a series of brutal set pieces ... that raise the bar on stylized screen violence ."
+N022,natural,VADER,-,neg,neg,there 's no emotional pulse to solaris .
+N023,natural,VADER,-,neg,neg,even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor .
+N024,natural,VADER,-,neg,neg,"the movie is what happens when you blow up small potatoes to 10 times their natural size , and it ai n't pretty ."
+N025,natural,VADER,-,neg,neg,a dumb movie with dumb characters doing dumb things and you have to be really dumb not to see where this is going .
+N026,natural,VADER,-,pos,neg,"it 's dumb , but more importantly , it 's just not scary ."
+N027,natural,VADER,-,pos,neg,"scores no points for originality , wit , or intelligence ."
+N028,natural,VADER,-,pos,neg,not an objectionable or dull film ; it merely lacks everything except good intentions .
+N029,natural,VADER,-,pos,neg,"for all the writhing and wailing , tears , rage and opium overdoses , there 's no sense of actual passion being washed away in love 's dissolution ."
+N030,natural,VADER,-,neg,neg,"unfortunately , it 's not silly fun unless you enjoy really bad movies ."
+N031,natural,VADER,-,pos,neg,the end result is a film that 's neither .
+N032,natural,VADER,-,pos,neg,"not only unfunny , but downright repellent ."
+N033,natural,VADER,-,pos,neg,"if there 's one thing this world needs less of , it 's movies about college that are written and directed by people who could n't pass an entrance exam ."
+N034,natural,VADER,-,pos,neg,"impostor has a handful of thrilling moments and a couple of good performances , but the movie does n't quite fly ."
+N035,natural,VADER,-,pos,neg,it 's not the ultimate depression-era gangster movie .
+N036,natural,VADER,-,neg,neg,the film 's few ideas are stretched to the point of evaporation ; the whole central section is one big chase that seems to have no goal and no urgency .
+N037,natural,VADER,-,neg,neg,"there seems to be no clear path as to where the story 's going , or how long it 's going to take to get there ."
+N038,natural,VADER,-,pos,neg,serving sara does n't serve up a whole lot of laughs .
+N039,natural,VADER,-,pos,neg,"the film 's hackneyed message is not helped by the thin characterizations , nonexistent plot and pretentious visual style ."
+N040,natural,VADER,-,neg,neg,"it 's as if you 're watching a movie that was made in 1978 but not released then because it was so weak , and it has been unearthed and released now , when it has become even weaker ."
+N041,natural,VADER,-,pos,neg,"try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! '"
+N042,natural,VADER,-,pos,neg,"it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination ."
+N043,natural,VADER,-,pos,neg,"the words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate ."
+N044,natural,VADER,-,pos,neg,"his last movie was poetically romantic and full of indelible images , but his latest has nothing going for it ."
+N045,natural,VADER,-,neg,neg,"this is not the undisputed worst boxing movie ever , but it 's certainly not a champion - the big loser is the audience ."
+N046,natural,VADER,-,pos,neg,"with its dogged hollywood naturalism and the inexorable passage of its characters toward sainthood , windtalkers is nothing but a sticky-sweet soap ."
+N047,natural,VADER,-,pos,neg,"determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult ."
+N048,natural,VADER,-,pos,neg,not really bad so much as distasteful : we need kidnapping suspense dramas right now like we need doomsday thrillers .
+N049,natural,VADER,-,pos,neg,"i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand ."
+N050,natural,VADER,-,pos,neg,do n't be fooled by the impressive cast list - eye see you is pure junk .
+N051,natural,VADER,-,pos,neg,"all the amped-up tony hawk-style stunts and thrashing rap-metal ca n't disguise the fact that , really , we 've been here , done that ."
+N052,natural,VADER,-,pos,neg,"it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface ."
+N053,natural,VADER,-,neg,neg,involves two mysteries -- one it gives away and the other featuring such badly drawn characters that its outcome hardly matters .
+N054,natural,VADER,-,neg,neg,"the movie , directed by mick jackson , leaves no cliche unturned , from the predictable plot to the characters straight out of central casting ."
+N055,natural,VADER,-,pos,neg,"it ca n't decide if it wants to be a mystery/thriller , a romance or a comedy ."
+N056,natural,VADER,-,neg,neg,... turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock .
+N057,natural,VADER,-,pos,neg,a by-the-numbers effort that wo n't do much to enhance the franchise .
+N058,natural,VADER,-,pos,neg,the character of zigzag is not sufficiently developed to support a film constructed around him .
+N059,natural,VADER,-,neg,neg,"as a rumor of angels reveals itself to be a sudsy tub of supernatural hokum , not even ms. redgrave 's noblest efforts can redeem it from hopeless sentimentality ."
+N060,natural,VADER,-,neg,neg,"it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation ."
+N061,natural,VADER,-,pos,neg,"it does nothing new with the old story , except to show fisticuffs in this sort of stop-go slow motion that makes the gang rumbles look like they 're being streamed over a 28k modem ."
+N062,natural,VADER,-,pos,neg,"for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam ."
+N063,natural,VADER,-,neg,neg,"the movie is dawn of the dead crossed with john carpenter 's ghosts of mars , with zombies not as ghoulish as the first and trains not as big as the second ."
+N064,natural,VADER,-,pos,neg,"the x potion gives the quickly named blossom , bubbles and buttercup supernatural powers that include extraordinary strength and laser-beam eyes , which unfortunately do n't enable them to discern flimsy screenplays ."
+N065,natural,VADER,-,pos,neg,"it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff ."
+N066,natural,VADER,-,neg,neg,"sit through this one , and you wo n't need a magic watch to stop time ; your dvd player will do it for you ."
+N067,natural,VADER,-,pos,neg,"ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine ."
+N068,natural,VADER,-,neg,neg,"you wo n't like roger , but you will quickly recognize him ."
+N069,natural,VADER,-,neg,neg,"there is n't nearly enough fun here , despite the presence of some appealing ingredients ."
+N070,natural,VADER,-,neg,neg,nervous breakdowns are not entertaining .
+N071,natural,VADER,-,neg,neg,"it does n't believe in itself , it has no sense of humor ... it 's just plain bored ."
+N072,natural,VADER,-,neg,neg,"while ( hill ) has learned new tricks , the tricks alone are not enough to salvage this lifeless boxing film ."
+N073,natural,VADER,-,neg,neg,`` the time machine '' is a movie that has no interest in itself .
+N074,natural,VADER,-,pos,neg,"care deftly captures the wonder and menace of growing up , but he never really embraces the joy of fuhrman 's destructive escapism or the grace-in-rebellion found by his characters ."
+N075,natural,VADER,-,pos,pos,fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away .
+N076,natural,VADER,-,neg,pos,"but taken as a stylish and energetic one-shot , the queen of the damned can not be said to suck ."
+N077,natural,VADER,-,pos,pos,reign of fire looks as if it was made without much thought -- and is best watched that way .
+N078,natural,VADER,-,pos,pos,you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance .
+N079,natural,VADER,-,neg,pos,"whether writer-director anne fontaine 's film is a ghost story , an account of a nervous breakdown , a trip down memory lane , all three or none of the above , it is as seductive as it is haunting ."
+N080,natural,VADER,-,neg,pos,"looking aristocratic , luminous yet careworn in jane hamilton 's exemplary costumes , rampling gives a performance that could not be improved upon . '"
+N081,natural,VADER,-,pos,pos,"it haunts you , you ca n't forget it , you admire its conception and are able to resolve some of the confusions you had while watching it ."
+N082,natural,VADER,-,pos,pos,a good piece of work more often than not .
+N083,natural,VADER,-,pos,pos,montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters .
+N084,natural,VADER,-,pos,pos,"like mike is a winner for kids , and no doubt a winner for lil bow wow , who can now add movies to the list of things he does well ."
+N085,natural,VADER,-,neg,pos,"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving ."
+N086,natural,VADER,-,pos,pos,"it has charm to spare , and unlike many romantic comedies , it does not alienate either gender in the audience ."
+N087,natural,VADER,-,pos,pos,it 's great escapist fun that recreates a place and time that will never happen again .
+N088,natural,VADER,-,pos,pos,"so unassuming and pure of heart , you ca n't help but warmly extend your arms and yell ` safe ! '"
+N089,natural,VADER,-,pos,pos,"hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people ."
+N090,natural,VADER,-,pos,pos,"it 's so good that its relentless , polished wit can withstand not only inept school productions , but even oliver parker 's movie adaptation ."
+N091,natural,VADER,-,neg,pos,"and if you 're not nearly moved to tears by a couple of scenes , you 've got ice water in your veins ."
+N092,natural,VADER,-,pos,pos,"highbrow self-appointed guardians of culture need not apply , but those who loved cool as ice have at last found a worthy follow-up ."
+N093,natural,VADER,-,neg,pos,"it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise ."
+N094,natural,VADER,-,pos,pos,"while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while ."
+N095,natural,VADER,-,pos,pos,"a fitfully amusing romp that , if nothing else , will appeal to fans of malcolm in the middle and its pubescent star , frankie muniz ."
+N096,natural,VADER,-,pos,pos,"not only is undercover brother as funny , if not more so , than both austin powers films , but it 's also one of the smarter , savvier spoofs to come along in some time ."
+N097,natural,VADER,-,pos,pos,"the lion king was a roaring success when it was released eight years ago , but on imax it seems better , not just bigger ."
+N098,natural,VADER,-,neg,pos,"not far beneath the surface , this reconfigured tale asks disturbing questions about those things we expect from military epics ."
+N099,natural,VADER,-,neg,pos,"an effectively creepy , fear-inducing ( not fear-reducing ) film from japanese director hideo nakata , who takes the superstitious curse on chain letters and actually applies it ."
+N100,natural,VADER,-,pos,pos,"no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand ."
+N101,natural,VADER,-,pos,pos,"it will grip even viewers who are n't interested in rap , as it cuts to the heart of american society in an unnerving way ."
+N102,natural,VADER,-,pos,pos,"it 's about following your dreams , no matter what your parents think ."
+N103,natural,VADER,-,pos,pos,it 's refreshing to see a girl-power movie that does n't feel it has to prove anything .
+N104,natural,VADER,-,pos,pos,"... a story we have n't seen on the big screen before , and it 's a story that we as americans , and human beings , should know ."
+N105,natural,VADER,-,pos,pos,the terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing .
+N106,natural,VADER,-,neg,pos,"whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie ."
+N107,natural,VADER,-,neg,pos,"the movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb ."
+N108,natural,VADER,-,pos,pos,( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful .
+N109,natural,VADER,-,pos,pos,cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors .
+N110,natural,VADER,-,pos,pos,"about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological ."
+N111,natural,VADER,-,pos,pos,a taut psychological thriller that does n't waste a moment of its two-hour running time .
+N112,natural,VADER,-,pos,pos,"there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine ."
+N113,natural,VADER,-,pos,pos,"nothing 's at stake , just a twisty double-cross you can smell a mile away -- still , the derivative nine queens is lots of fun ."
+N114,natural,VADER,-,pos,pos,"not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j.k. rowling 's books ."
+N115,natural,VADER,-,pos,pos,"neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula ."
+N116,natural,VADER,-,pos,pos,two hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated .
+N117,natural,VADER,-,pos,pos,"byler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama ."
+N118,natural,VADER,-,pos,pos,a marvel like none you 've seen .
+N119,natural,VADER,-,pos,pos,the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned .
+N120,natural,VADER,-,pos,pos,the magic of the film lies not in the mysterious spring but in the richness of its performances .
+N121,natural,VADER,-,pos,pos,"although german cooking does not come readily to mind when considering the world 's best cuisine , mostly martha could make deutchland a popular destination for hungry tourists ."
+N122,natural,VADER,-,pos,pos,"mcconaughey 's fun to watch , the dragons are okay , not much fire in the script ."
+N123,natural,VADER,-,neg,pos,"inside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat ."
+N124,natural,VADER,-,pos,pos,we have n't seen such hilarity since say it is n't so !
+N125,natural,VADER,-,pos,pos,"even if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch ."
+N126,natural,VADER,-,pos,pos,"without ever becoming didactic , director carlos carrera expertly weaves this novelistic story of entangled interrelationships and complex morality ."
+N127,natural,VADER,-,neg,pos,if your taste runs to ` difficult ' films you absolutely ca n't miss it .
+N128,natural,VADER,-,pos,pos,"all-in-all , the film is an enjoyable and frankly told tale of a people who live among us , but not necessarily with us ."
+N129,natural,VADER,-,pos,pos,not since tom cruise in risky business has an actor made such a strong impression in his underwear .
+N130,natural,VADER,-,pos,pos,"not the kind of film that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit ."
+N131,natural,VADER,-,neg,pos,"moody , heartbreaking , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not ."
+N132,natural,VADER,-,pos,pos,it 's one heck of a character study -- not of hearst or davies but of the unique relationship between them .
+N133,natural,VADER,-,pos,pos,"... an otherwise intense , twist-and-turn thriller that certainly should n't hurt talented young gaghan 's resume ."
+N134,natural,VADER,-,neg,pos,a working class `` us vs. them '' opera that leaves no heartstring untugged and no liberal cause unplundered .
+N135,natural,VADER,-,pos,pos,"this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other ."
+N136,natural,VADER,-,pos,pos,"despite its title , punch-drunk love is never heavy-handed ."
+N137,natural,VADER,-,neg,pos,"harrison 's flowers puts its heart in the right place , but its brains are in no particular place at all ."
+N138,natural,VADER,-,pos,pos,"based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters"
+N139,natural,VADER,-,pos,pos,the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation .
+N140,natural,VADER,-,pos,pos,"kinnear does n't aim for our sympathy , but rather delivers a performance of striking skill and depth ."
+N141,natural,VADER,-,pos,pos,"a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution ."
+N142,natural,VADER,-,pos,pos,"this is a story of two misfits who do n't stand a chance alone , but together they are magnificent ."
+N143,natural,VADER,-,pos,pos,the quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy .
+N144,natural,VADER,-,neg,pos,not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur .
+N145,natural,VADER,-,neg,pos,no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes .
+N146,natural,VADER,-,pos,pos,"visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality ."
+N147,natural,VADER,-,pos,pos,it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel .
+N148,natural,VADER,-,neg,pos,"nine queens is not only than a frighteningly capable debut and genre piece , but also a snapshot of a dangerous political situation on the verge of coming to a head ."
+N000,natural,RoBERTa,-,neg,neg,"if looking for a thrilling sci-fi cinematic ride , do n't settle for this imposter ."
+N001,natural,RoBERTa,-,neg,neg,the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second .
+N002,natural,RoBERTa,-,neg,neg,"the film contains no good jokes , no good scenes , barely a moment when carvey 's saturday night live-honed mimicry rises above the level of embarrassment ."
+N003,natural,RoBERTa,-,neg,neg,the script is n't very good ; not even someone as gifted as hoffman ( the actor ) can make it work .
+N004,natural,RoBERTa,-,neg,neg,burns never really harnesses to full effect the energetic cast .
+N005,natural,RoBERTa,-,neg,neg,"i 've always dreamed of attending cannes , but after seeing this film , it 's not that big a deal ."
+N006,natural,RoBERTa,-,neg,neg,"at the very least , if you do n't know anything about derrida when you walk into the theater , you wo n't know much more when you leave ."
+N007,natural,RoBERTa,-,neg,neg,stealing harvard aspires to comedic grand larceny but stands convicted of nothing more than petty theft of your time .
+N008,natural,RoBERTa,-,neg,neg,"it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks ."
+N009,natural,RoBERTa,-,neg,neg,"with the exception of some fleetingly amusing improvisations by cedric the entertainer as perry 's boss , there is n't a redeeming moment here ."
+N010,natural,RoBERTa,-,neg,neg,"the title not only describes its main characters , but the lazy people behind the camera as well ."
+N011,natural,RoBERTa,-,neg,neg,overall the film feels like a low-budget tv pilot that could not find a buyer to play it on the tube .
+N012,natural,RoBERTa,-,neg,neg,no one but a convict guilty of some truly heinous crime should have to sit through the master of disguise .
+N013,natural,RoBERTa,-,neg,neg,there 's not enough here to justify the almost two hours .
+N014,natural,RoBERTa,-,neg,neg,... nothing scary here except for some awful acting and lame special effects .
+N015,natural,RoBERTa,-,neg,neg,the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it .
+N016,natural,RoBERTa,-,neg,neg,davis ... is so enamored of her own creation that she ca n't see how insufferable the character is .
+N017,natural,RoBERTa,-,neg,neg,what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about .
+N018,natural,RoBERTa,-,neg,neg,not since freddy got fingered has a major release been so painful to sit through .
+N019,natural,RoBERTa,-,neg,neg,"too often , the viewer is n't reacting to humor so much as they are wincing back in repugnance ."
+N020,natural,RoBERTa,-,neg,neg,"in an effort , i suspect , not to offend by appearing either too serious or too lighthearted , it offends by just being wishy-washy ."
+N021,natural,RoBERTa,-,neg,neg,"does n't offer much besides glib soullessness , raunchy language and a series of brutal set pieces ... that raise the bar on stylized screen violence ."
+N022,natural,RoBERTa,-,neg,neg,there 's no emotional pulse to solaris .
+N023,natural,RoBERTa,-,neg,neg,even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor .
+N024,natural,RoBERTa,-,neg,neg,"the movie is what happens when you blow up small potatoes to 10 times their natural size , and it ai n't pretty ."
+N025,natural,RoBERTa,-,neg,neg,a dumb movie with dumb characters doing dumb things and you have to be really dumb not to see where this is going .
+N026,natural,RoBERTa,-,neg,neg,"it 's dumb , but more importantly , it 's just not scary ."
+N027,natural,RoBERTa,-,neg,neg,"scores no points for originality , wit , or intelligence ."
+N028,natural,RoBERTa,-,neg,neg,not an objectionable or dull film ; it merely lacks everything except good intentions .
+N029,natural,RoBERTa,-,neg,neg,"for all the writhing and wailing , tears , rage and opium overdoses , there 's no sense of actual passion being washed away in love 's dissolution ."
+N030,natural,RoBERTa,-,neg,neg,"unfortunately , it 's not silly fun unless you enjoy really bad movies ."
+N031,natural,RoBERTa,-,neg,neg,the end result is a film that 's neither .
+N032,natural,RoBERTa,-,neg,neg,"not only unfunny , but downright repellent ."
+N033,natural,RoBERTa,-,neg,neg,"if there 's one thing this world needs less of , it 's movies about college that are written and directed by people who could n't pass an entrance exam ."
+N034,natural,RoBERTa,-,neg,neg,"impostor has a handful of thrilling moments and a couple of good performances , but the movie does n't quite fly ."
+N035,natural,RoBERTa,-,neg,neg,it 's not the ultimate depression-era gangster movie .
+N036,natural,RoBERTa,-,neg,neg,the film 's few ideas are stretched to the point of evaporation ; the whole central section is one big chase that seems to have no goal and no urgency .
+N037,natural,RoBERTa,-,neg,neg,"there seems to be no clear path as to where the story 's going , or how long it 's going to take to get there ."
+N038,natural,RoBERTa,-,neg,neg,serving sara does n't serve up a whole lot of laughs .
+N039,natural,RoBERTa,-,neg,neg,"the film 's hackneyed message is not helped by the thin characterizations , nonexistent plot and pretentious visual style ."
+N040,natural,RoBERTa,-,neg,neg,"it 's as if you 're watching a movie that was made in 1978 but not released then because it was so weak , and it has been unearthed and released now , when it has become even weaker ."
+N041,natural,RoBERTa,-,neg,neg,"try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! '"
+N042,natural,RoBERTa,-,neg,neg,"it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination ."
+N043,natural,RoBERTa,-,neg,neg,"the words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate ."
+N044,natural,RoBERTa,-,neg,neg,"his last movie was poetically romantic and full of indelible images , but his latest has nothing going for it ."
+N045,natural,RoBERTa,-,neg,neg,"this is not the undisputed worst boxing movie ever , but it 's certainly not a champion - the big loser is the audience ."
+N046,natural,RoBERTa,-,neg,neg,"with its dogged hollywood naturalism and the inexorable passage of its characters toward sainthood , windtalkers is nothing but a sticky-sweet soap ."
+N047,natural,RoBERTa,-,neg,neg,"determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult ."
+N048,natural,RoBERTa,-,neg,neg,not really bad so much as distasteful : we need kidnapping suspense dramas right now like we need doomsday thrillers .
+N049,natural,RoBERTa,-,neg,neg,"i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand ."
+N050,natural,RoBERTa,-,neg,neg,do n't be fooled by the impressive cast list - eye see you is pure junk .
+N051,natural,RoBERTa,-,neg,neg,"all the amped-up tony hawk-style stunts and thrashing rap-metal ca n't disguise the fact that , really , we 've been here , done that ."
+N052,natural,RoBERTa,-,neg,neg,"it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface ."
+N053,natural,RoBERTa,-,neg,neg,involves two mysteries -- one it gives away and the other featuring such badly drawn characters that its outcome hardly matters .
+N054,natural,RoBERTa,-,neg,neg,"the movie , directed by mick jackson , leaves no cliche unturned , from the predictable plot to the characters straight out of central casting ."
+N055,natural,RoBERTa,-,neg,neg,"it ca n't decide if it wants to be a mystery/thriller , a romance or a comedy ."
+N056,natural,RoBERTa,-,neg,neg,... turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock .
+N057,natural,RoBERTa,-,neg,neg,a by-the-numbers effort that wo n't do much to enhance the franchise .
+N058,natural,RoBERTa,-,neg,neg,the character of zigzag is not sufficiently developed to support a film constructed around him .
+N059,natural,RoBERTa,-,neg,neg,"as a rumor of angels reveals itself to be a sudsy tub of supernatural hokum , not even ms. redgrave 's noblest efforts can redeem it from hopeless sentimentality ."
+N060,natural,RoBERTa,-,neg,neg,"it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation ."
+N061,natural,RoBERTa,-,neg,neg,"it does nothing new with the old story , except to show fisticuffs in this sort of stop-go slow motion that makes the gang rumbles look like they 're being streamed over a 28k modem ."
+N062,natural,RoBERTa,-,neg,neg,"for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam ."
+N063,natural,RoBERTa,-,neg,neg,"the movie is dawn of the dead crossed with john carpenter 's ghosts of mars , with zombies not as ghoulish as the first and trains not as big as the second ."
+N064,natural,RoBERTa,-,neg,neg,"the x potion gives the quickly named blossom , bubbles and buttercup supernatural powers that include extraordinary strength and laser-beam eyes , which unfortunately do n't enable them to discern flimsy screenplays ."
+N065,natural,RoBERTa,-,neg,neg,"it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff ."
+N066,natural,RoBERTa,-,pos,neg,"sit through this one , and you wo n't need a magic watch to stop time ; your dvd player will do it for you ."
+N067,natural,RoBERTa,-,neg,neg,"ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine ."
+N068,natural,RoBERTa,-,pos,neg,"you wo n't like roger , but you will quickly recognize him ."
+N069,natural,RoBERTa,-,neg,neg,"there is n't nearly enough fun here , despite the presence of some appealing ingredients ."
+N070,natural,RoBERTa,-,neg,neg,nervous breakdowns are not entertaining .
+N071,natural,RoBERTa,-,neg,neg,"it does n't believe in itself , it has no sense of humor ... it 's just plain bored ."
+N072,natural,RoBERTa,-,neg,neg,"while ( hill ) has learned new tricks , the tricks alone are not enough to salvage this lifeless boxing film ."
+N073,natural,RoBERTa,-,neg,neg,`` the time machine '' is a movie that has no interest in itself .
+N074,natural,RoBERTa,-,neg,neg,"care deftly captures the wonder and menace of growing up , but he never really embraces the joy of fuhrman 's destructive escapism or the grace-in-rebellion found by his characters ."
+N075,natural,RoBERTa,-,pos,pos,fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away .
+N076,natural,RoBERTa,-,pos,pos,"but taken as a stylish and energetic one-shot , the queen of the damned can not be said to suck ."
+N077,natural,RoBERTa,-,neg,pos,reign of fire looks as if it was made without much thought -- and is best watched that way .
+N078,natural,RoBERTa,-,pos,pos,you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance .
+N079,natural,RoBERTa,-,pos,pos,"whether writer-director anne fontaine 's film is a ghost story , an account of a nervous breakdown , a trip down memory lane , all three or none of the above , it is as seductive as it is haunting ."
+N080,natural,RoBERTa,-,neg,pos,"looking aristocratic , luminous yet careworn in jane hamilton 's exemplary costumes , rampling gives a performance that could not be improved upon . '"
+N081,natural,RoBERTa,-,pos,pos,"it haunts you , you ca n't forget it , you admire its conception and are able to resolve some of the confusions you had while watching it ."
+N082,natural,RoBERTa,-,pos,pos,a good piece of work more often than not .
+N083,natural,RoBERTa,-,pos,pos,montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters .
+N084,natural,RoBERTa,-,pos,pos,"like mike is a winner for kids , and no doubt a winner for lil bow wow , who can now add movies to the list of things he does well ."
+N085,natural,RoBERTa,-,pos,pos,"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving ."
+N086,natural,RoBERTa,-,pos,pos,"it has charm to spare , and unlike many romantic comedies , it does not alienate either gender in the audience ."
+N087,natural,RoBERTa,-,pos,pos,it 's great escapist fun that recreates a place and time that will never happen again .
+N088,natural,RoBERTa,-,pos,pos,"so unassuming and pure of heart , you ca n't help but warmly extend your arms and yell ` safe ! '"
+N089,natural,RoBERTa,-,pos,pos,"hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people ."
+N090,natural,RoBERTa,-,pos,pos,"it 's so good that its relentless , polished wit can withstand not only inept school productions , but even oliver parker 's movie adaptation ."
+N091,natural,RoBERTa,-,pos,pos,"and if you 're not nearly moved to tears by a couple of scenes , you 've got ice water in your veins ."
+N092,natural,RoBERTa,-,pos,pos,"highbrow self-appointed guardians of culture need not apply , but those who loved cool as ice have at last found a worthy follow-up ."
+N093,natural,RoBERTa,-,pos,pos,"it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise ."
+N094,natural,RoBERTa,-,pos,pos,"while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while ."
+N095,natural,RoBERTa,-,pos,pos,"a fitfully amusing romp that , if nothing else , will appeal to fans of malcolm in the middle and its pubescent star , frankie muniz ."
+N096,natural,RoBERTa,-,pos,pos,"not only is undercover brother as funny , if not more so , than both austin powers films , but it 's also one of the smarter , savvier spoofs to come along in some time ."
+N097,natural,RoBERTa,-,pos,pos,"the lion king was a roaring success when it was released eight years ago , but on imax it seems better , not just bigger ."
+N098,natural,RoBERTa,-,pos,pos,"not far beneath the surface , this reconfigured tale asks disturbing questions about those things we expect from military epics ."
+N099,natural,RoBERTa,-,pos,pos,"an effectively creepy , fear-inducing ( not fear-reducing ) film from japanese director hideo nakata , who takes the superstitious curse on chain letters and actually applies it ."
+N100,natural,RoBERTa,-,pos,pos,"no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand ."
+N101,natural,RoBERTa,-,pos,pos,"it will grip even viewers who are n't interested in rap , as it cuts to the heart of american society in an unnerving way ."
+N102,natural,RoBERTa,-,pos,pos,"it 's about following your dreams , no matter what your parents think ."
+N103,natural,RoBERTa,-,pos,pos,it 's refreshing to see a girl-power movie that does n't feel it has to prove anything .
+N104,natural,RoBERTa,-,pos,pos,"... a story we have n't seen on the big screen before , and it 's a story that we as americans , and human beings , should know ."
+N105,natural,RoBERTa,-,pos,pos,the terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing .
+N106,natural,RoBERTa,-,pos,pos,"whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie ."
+N107,natural,RoBERTa,-,pos,pos,"the movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb ."
+N108,natural,RoBERTa,-,neg,pos,( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful .
+N109,natural,RoBERTa,-,pos,pos,cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors .
+N110,natural,RoBERTa,-,pos,pos,"about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological ."
+N111,natural,RoBERTa,-,pos,pos,a taut psychological thriller that does n't waste a moment of its two-hour running time .
+N112,natural,RoBERTa,-,pos,pos,"there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine ."
+N113,natural,RoBERTa,-,pos,pos,"nothing 's at stake , just a twisty double-cross you can smell a mile away -- still , the derivative nine queens is lots of fun ."
+N114,natural,RoBERTa,-,pos,pos,"not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j.k. rowling 's books ."
+N115,natural,RoBERTa,-,pos,pos,"neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula ."
+N116,natural,RoBERTa,-,pos,pos,two hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated .
+N117,natural,RoBERTa,-,pos,pos,"byler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama ."
+N118,natural,RoBERTa,-,pos,pos,a marvel like none you 've seen .
+N119,natural,RoBERTa,-,neg,pos,the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned .
+N120,natural,RoBERTa,-,pos,pos,the magic of the film lies not in the mysterious spring but in the richness of its performances .
+N121,natural,RoBERTa,-,pos,pos,"although german cooking does not come readily to mind when considering the world 's best cuisine , mostly martha could make deutchland a popular destination for hungry tourists ."
+N122,natural,RoBERTa,-,pos,pos,"mcconaughey 's fun to watch , the dragons are okay , not much fire in the script ."
+N123,natural,RoBERTa,-,pos,pos,"inside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat ."
+N124,natural,RoBERTa,-,pos,pos,we have n't seen such hilarity since say it is n't so !
+N125,natural,RoBERTa,-,pos,pos,"even if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch ."
+N126,natural,RoBERTa,-,pos,pos,"without ever becoming didactic , director carlos carrera expertly weaves this novelistic story of entangled interrelationships and complex morality ."
+N127,natural,RoBERTa,-,pos,pos,if your taste runs to ` difficult ' films you absolutely ca n't miss it .
+N128,natural,RoBERTa,-,pos,pos,"all-in-all , the film is an enjoyable and frankly told tale of a people who live among us , but not necessarily with us ."
+N129,natural,RoBERTa,-,pos,pos,not since tom cruise in risky business has an actor made such a strong impression in his underwear .
+N130,natural,RoBERTa,-,pos,pos,"not the kind of film that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit ."
+N131,natural,RoBERTa,-,pos,pos,"moody , heartbreaking , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not ."
+N132,natural,RoBERTa,-,pos,pos,it 's one heck of a character study -- not of hearst or davies but of the unique relationship between them .
+N133,natural,RoBERTa,-,pos,pos,"... an otherwise intense , twist-and-turn thriller that certainly should n't hurt talented young gaghan 's resume ."
+N134,natural,RoBERTa,-,neg,pos,a working class `` us vs. them '' opera that leaves no heartstring untugged and no liberal cause unplundered .
+N135,natural,RoBERTa,-,pos,pos,"this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other ."
+N136,natural,RoBERTa,-,pos,pos,"despite its title , punch-drunk love is never heavy-handed ."
+N137,natural,RoBERTa,-,neg,pos,"harrison 's flowers puts its heart in the right place , but its brains are in no particular place at all ."
+N138,natural,RoBERTa,-,pos,pos,"based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters"
+N139,natural,RoBERTa,-,pos,pos,the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation .
+N140,natural,RoBERTa,-,pos,pos,"kinnear does n't aim for our sympathy , but rather delivers a performance of striking skill and depth ."
+N141,natural,RoBERTa,-,pos,pos,"a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution ."
+N142,natural,RoBERTa,-,pos,pos,"this is a story of two misfits who do n't stand a chance alone , but together they are magnificent ."
+N143,natural,RoBERTa,-,pos,pos,the quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy .
+N144,natural,RoBERTa,-,pos,pos,not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur .
+N145,natural,RoBERTa,-,neg,pos,no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes .
+N146,natural,RoBERTa,-,pos,pos,"visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality ."
+N147,natural,RoBERTa,-,pos,pos,it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel .
+N148,natural,RoBERTa,-,pos,pos,"nine queens is not only than a frighteningly capable debut and genre piece , but also a snapshot of a dangerous political situation on the verge of coming to a head ."
+N000,natural,Qwen,p1,neg,neg,"if looking for a thrilling sci-fi cinematic ride , do n't settle for this imposter ."
+N001,natural,Qwen,p1,neg,neg,the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second .
+N002,natural,Qwen,p1,neg,neg,"the film contains no good jokes , no good scenes , barely a moment when carvey 's saturday night live-honed mimicry rises above the level of embarrassment ."
+N003,natural,Qwen,p1,neg,neg,the script is n't very good ; not even someone as gifted as hoffman ( the actor ) can make it work .
+N004,natural,Qwen,p1,neg,neg,burns never really harnesses to full effect the energetic cast .
+N005,natural,Qwen,p1,neg,neg,"i 've always dreamed of attending cannes , but after seeing this film , it 's not that big a deal ."
+N006,natural,Qwen,p1,neg,neg,"at the very least , if you do n't know anything about derrida when you walk into the theater , you wo n't know much more when you leave ."
+N007,natural,Qwen,p1,neg,neg,stealing harvard aspires to comedic grand larceny but stands convicted of nothing more than petty theft of your time .
+N008,natural,Qwen,p1,neg,neg,"it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks ."
+N009,natural,Qwen,p1,neg,neg,"with the exception of some fleetingly amusing improvisations by cedric the entertainer as perry 's boss , there is n't a redeeming moment here ."
+N010,natural,Qwen,p1,neg,neg,"the title not only describes its main characters , but the lazy people behind the camera as well ."
+N011,natural,Qwen,p1,neg,neg,overall the film feels like a low-budget tv pilot that could not find a buyer to play it on the tube .
+N012,natural,Qwen,p1,neg,neg,no one but a convict guilty of some truly heinous crime should have to sit through the master of disguise .
+N013,natural,Qwen,p1,neg,neg,there 's not enough here to justify the almost two hours .
+N014,natural,Qwen,p1,neg,neg,... nothing scary here except for some awful acting and lame special effects .
+N015,natural,Qwen,p1,neg,neg,the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it .
+N016,natural,Qwen,p1,neg,neg,davis ... is so enamored of her own creation that she ca n't see how insufferable the character is .
+N017,natural,Qwen,p1,neg,neg,what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about .
+N018,natural,Qwen,p1,neg,neg,not since freddy got fingered has a major release been so painful to sit through .
+N019,natural,Qwen,p1,neg,neg,"too often , the viewer is n't reacting to humor so much as they are wincing back in repugnance ."
+N020,natural,Qwen,p1,neg,neg,"in an effort , i suspect , not to offend by appearing either too serious or too lighthearted , it offends by just being wishy-washy ."
+N021,natural,Qwen,p1,neg,neg,"does n't offer much besides glib soullessness , raunchy language and a series of brutal set pieces ... that raise the bar on stylized screen violence ."
+N022,natural,Qwen,p1,neg,neg,there 's no emotional pulse to solaris .
+N023,natural,Qwen,p1,neg,neg,even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor .
+N024,natural,Qwen,p1,neg,neg,"the movie is what happens when you blow up small potatoes to 10 times their natural size , and it ai n't pretty ."
+N025,natural,Qwen,p1,neg,neg,a dumb movie with dumb characters doing dumb things and you have to be really dumb not to see where this is going .
+N026,natural,Qwen,p1,neg,neg,"it 's dumb , but more importantly , it 's just not scary ."
+N027,natural,Qwen,p1,neg,neg,"scores no points for originality , wit , or intelligence ."
+N028,natural,Qwen,p1,neg,neg,not an objectionable or dull film ; it merely lacks everything except good intentions .
+N029,natural,Qwen,p1,neg,neg,"for all the writhing and wailing , tears , rage and opium overdoses , there 's no sense of actual passion being washed away in love 's dissolution ."
+N030,natural,Qwen,p1,neg,neg,"unfortunately , it 's not silly fun unless you enjoy really bad movies ."
+N031,natural,Qwen,p1,neg,neg,the end result is a film that 's neither .
+N032,natural,Qwen,p1,neg,neg,"not only unfunny , but downright repellent ."
+N033,natural,Qwen,p1,neg,neg,"if there 's one thing this world needs less of , it 's movies about college that are written and directed by people who could n't pass an entrance exam ."
+N034,natural,Qwen,p1,neg,neg,"impostor has a handful of thrilling moments and a couple of good performances , but the movie does n't quite fly ."
+N035,natural,Qwen,p1,neg,neg,it 's not the ultimate depression-era gangster movie .
+N036,natural,Qwen,p1,neg,neg,the film 's few ideas are stretched to the point of evaporation ; the whole central section is one big chase that seems to have no goal and no urgency .
+N037,natural,Qwen,p1,neg,neg,"there seems to be no clear path as to where the story 's going , or how long it 's going to take to get there ."
+N038,natural,Qwen,p1,neg,neg,serving sara does n't serve up a whole lot of laughs .
+N039,natural,Qwen,p1,neg,neg,"the film 's hackneyed message is not helped by the thin characterizations , nonexistent plot and pretentious visual style ."
+N040,natural,Qwen,p1,neg,neg,"it 's as if you 're watching a movie that was made in 1978 but not released then because it was so weak , and it has been unearthed and released now , when it has become even weaker ."
+N041,natural,Qwen,p1,neg,neg,"try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! '"
+N042,natural,Qwen,p1,neg,neg,"it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination ."
+N043,natural,Qwen,p1,pos,neg,"the words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate ."
+N044,natural,Qwen,p1,neg,neg,"his last movie was poetically romantic and full of indelible images , but his latest has nothing going for it ."
+N045,natural,Qwen,p1,neg,neg,"this is not the undisputed worst boxing movie ever , but it 's certainly not a champion - the big loser is the audience ."
+N046,natural,Qwen,p1,neg,neg,"with its dogged hollywood naturalism and the inexorable passage of its characters toward sainthood , windtalkers is nothing but a sticky-sweet soap ."
+N047,natural,Qwen,p1,neg,neg,"determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult ."
+N048,natural,Qwen,p1,neg,neg,not really bad so much as distasteful : we need kidnapping suspense dramas right now like we need doomsday thrillers .
+N049,natural,Qwen,p1,neg,neg,"i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand ."
+N050,natural,Qwen,p1,neg,neg,do n't be fooled by the impressive cast list - eye see you is pure junk .
+N051,natural,Qwen,p1,neg,neg,"all the amped-up tony hawk-style stunts and thrashing rap-metal ca n't disguise the fact that , really , we 've been here , done that ."
+N052,natural,Qwen,p1,neg,neg,"it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface ."
+N053,natural,Qwen,p1,neg,neg,involves two mysteries -- one it gives away and the other featuring such badly drawn characters that its outcome hardly matters .
+N054,natural,Qwen,p1,neg,neg,"the movie , directed by mick jackson , leaves no cliche unturned , from the predictable plot to the characters straight out of central casting ."
+N055,natural,Qwen,p1,neg,neg,"it ca n't decide if it wants to be a mystery/thriller , a romance or a comedy ."
+N056,natural,Qwen,p1,neg,neg,... turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock .
+N057,natural,Qwen,p1,neg,neg,a by-the-numbers effort that wo n't do much to enhance the franchise .
+N058,natural,Qwen,p1,neg,neg,the character of zigzag is not sufficiently developed to support a film constructed around him .
+N059,natural,Qwen,p1,neg,neg,"as a rumor of angels reveals itself to be a sudsy tub of supernatural hokum , not even ms. redgrave 's noblest efforts can redeem it from hopeless sentimentality ."
+N060,natural,Qwen,p1,neg,neg,"it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation ."
+N061,natural,Qwen,p1,neg,neg,"it does nothing new with the old story , except to show fisticuffs in this sort of stop-go slow motion that makes the gang rumbles look like they 're being streamed over a 28k modem ."
+N062,natural,Qwen,p1,neg,neg,"for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam ."
+N063,natural,Qwen,p1,neg,neg,"the movie is dawn of the dead crossed with john carpenter 's ghosts of mars , with zombies not as ghoulish as the first and trains not as big as the second ."
+N064,natural,Qwen,p1,neg,neg,"the x potion gives the quickly named blossom , bubbles and buttercup supernatural powers that include extraordinary strength and laser-beam eyes , which unfortunately do n't enable them to discern flimsy screenplays ."
+N065,natural,Qwen,p1,neg,neg,"it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff ."
+N066,natural,Qwen,p1,pos,neg,"sit through this one , and you wo n't need a magic watch to stop time ; your dvd player will do it for you ."
+N067,natural,Qwen,p1,neg,neg,"ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine ."
+N068,natural,Qwen,p1,pos,neg,"you wo n't like roger , but you will quickly recognize him ."
+N069,natural,Qwen,p1,neg,neg,"there is n't nearly enough fun here , despite the presence of some appealing ingredients ."
+N070,natural,Qwen,p1,neg,neg,nervous breakdowns are not entertaining .
+N071,natural,Qwen,p1,neg,neg,"it does n't believe in itself , it has no sense of humor ... it 's just plain bored ."
+N072,natural,Qwen,p1,neg,neg,"while ( hill ) has learned new tricks , the tricks alone are not enough to salvage this lifeless boxing film ."
+N073,natural,Qwen,p1,neg,neg,`` the time machine '' is a movie that has no interest in itself .
+N074,natural,Qwen,p1,neg,neg,"care deftly captures the wonder and menace of growing up , but he never really embraces the joy of fuhrman 's destructive escapism or the grace-in-rebellion found by his characters ."
+N075,natural,Qwen,p1,neg,pos,fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away .
+N076,natural,Qwen,p1,pos,pos,"but taken as a stylish and energetic one-shot , the queen of the damned can not be said to suck ."
+N077,natural,Qwen,p1,neg,pos,reign of fire looks as if it was made without much thought -- and is best watched that way .
+N078,natural,Qwen,p1,pos,pos,you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance .
+N079,natural,Qwen,p1,pos,pos,"whether writer-director anne fontaine 's film is a ghost story , an account of a nervous breakdown , a trip down memory lane , all three or none of the above , it is as seductive as it is haunting ."
+N080,natural,Qwen,p1,pos,pos,"looking aristocratic , luminous yet careworn in jane hamilton 's exemplary costumes , rampling gives a performance that could not be improved upon . '"
+N081,natural,Qwen,p1,pos,pos,"it haunts you , you ca n't forget it , you admire its conception and are able to resolve some of the confusions you had while watching it ."
+N082,natural,Qwen,p1,pos,pos,a good piece of work more often than not .
+N083,natural,Qwen,p1,pos,pos,montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters .
+N084,natural,Qwen,p1,pos,pos,"like mike is a winner for kids , and no doubt a winner for lil bow wow , who can now add movies to the list of things he does well ."
+N085,natural,Qwen,p1,pos,pos,"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving ."
+N086,natural,Qwen,p1,pos,pos,"it has charm to spare , and unlike many romantic comedies , it does not alienate either gender in the audience ."
+N087,natural,Qwen,p1,pos,pos,it 's great escapist fun that recreates a place and time that will never happen again .
+N088,natural,Qwen,p1,pos,pos,"so unassuming and pure of heart , you ca n't help but warmly extend your arms and yell ` safe ! '"
+N089,natural,Qwen,p1,pos,pos,"hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people ."
+N090,natural,Qwen,p1,pos,pos,"it 's so good that its relentless , polished wit can withstand not only inept school productions , but even oliver parker 's movie adaptation ."
+N091,natural,Qwen,p1,pos,pos,"and if you 're not nearly moved to tears by a couple of scenes , you 've got ice water in your veins ."
+N092,natural,Qwen,p1,pos,pos,"highbrow self-appointed guardians of culture need not apply , but those who loved cool as ice have at last found a worthy follow-up ."
+N093,natural,Qwen,p1,neg,pos,"it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise ."
+N094,natural,Qwen,p1,pos,pos,"while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while ."
+N095,natural,Qwen,p1,pos,pos,"a fitfully amusing romp that , if nothing else , will appeal to fans of malcolm in the middle and its pubescent star , frankie muniz ."
+N096,natural,Qwen,p1,pos,pos,"not only is undercover brother as funny , if not more so , than both austin powers films , but it 's also one of the smarter , savvier spoofs to come along in some time ."
+N097,natural,Qwen,p1,pos,pos,"the lion king was a roaring success when it was released eight years ago , but on imax it seems better , not just bigger ."
+N098,natural,Qwen,p1,neg,pos,"not far beneath the surface , this reconfigured tale asks disturbing questions about those things we expect from military epics ."
+N099,natural,Qwen,p1,pos,pos,"an effectively creepy , fear-inducing ( not fear-reducing ) film from japanese director hideo nakata , who takes the superstitious curse on chain letters and actually applies it ."
+N100,natural,Qwen,p1,pos,pos,"no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand ."
+N101,natural,Qwen,p1,pos,pos,"it will grip even viewers who are n't interested in rap , as it cuts to the heart of american society in an unnerving way ."
+N102,natural,Qwen,p1,pos,pos,"it 's about following your dreams , no matter what your parents think ."
+N103,natural,Qwen,p1,pos,pos,it 's refreshing to see a girl-power movie that does n't feel it has to prove anything .
+N104,natural,Qwen,p1,pos,pos,"... a story we have n't seen on the big screen before , and it 's a story that we as americans , and human beings , should know ."
+N105,natural,Qwen,p1,pos,pos,the terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing .
+N106,natural,Qwen,p1,neg,pos,"whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie ."
+N107,natural,Qwen,p1,pos,pos,"the movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb ."
+N108,natural,Qwen,p1,pos,pos,( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful .
+N109,natural,Qwen,p1,pos,pos,cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors .
+N110,natural,Qwen,p1,pos,pos,"about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological ."
+N111,natural,Qwen,p1,pos,pos,a taut psychological thriller that does n't waste a moment of its two-hour running time .
+N112,natural,Qwen,p1,neg,pos,"there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine ."
+N113,natural,Qwen,p1,pos,pos,"nothing 's at stake , just a twisty double-cross you can smell a mile away -- still , the derivative nine queens is lots of fun ."
+N114,natural,Qwen,p1,pos,pos,"not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j.k. rowling 's books ."
+N115,natural,Qwen,p1,pos,pos,"neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula ."
+N116,natural,Qwen,p1,pos,pos,two hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated .
+N117,natural,Qwen,p1,pos,pos,"byler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama ."
+N118,natural,Qwen,p1,pos,pos,a marvel like none you 've seen .
+N119,natural,Qwen,p1,neg,pos,the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned .
+N120,natural,Qwen,p1,pos,pos,the magic of the film lies not in the mysterious spring but in the richness of its performances .
+N121,natural,Qwen,p1,pos,pos,"although german cooking does not come readily to mind when considering the world 's best cuisine , mostly martha could make deutchland a popular destination for hungry tourists ."
+N122,natural,Qwen,p1,neg,pos,"mcconaughey 's fun to watch , the dragons are okay , not much fire in the script ."
+N123,natural,Qwen,p1,pos,pos,"inside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat ."
+N124,natural,Qwen,p1,pos,pos,we have n't seen such hilarity since say it is n't so !
+N125,natural,Qwen,p1,neg,pos,"even if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch ."
+N126,natural,Qwen,p1,pos,pos,"without ever becoming didactic , director carlos carrera expertly weaves this novelistic story of entangled interrelationships and complex morality ."
+N127,natural,Qwen,p1,pos,pos,if your taste runs to ` difficult ' films you absolutely ca n't miss it .
+N128,natural,Qwen,p1,pos,pos,"all-in-all , the film is an enjoyable and frankly told tale of a people who live among us , but not necessarily with us ."
+N129,natural,Qwen,p1,pos,pos,not since tom cruise in risky business has an actor made such a strong impression in his underwear .
+N130,natural,Qwen,p1,pos,pos,"not the kind of film that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit ."
+N131,natural,Qwen,p1,pos,pos,"moody , heartbreaking , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not ."
+N132,natural,Qwen,p1,pos,pos,it 's one heck of a character study -- not of hearst or davies but of the unique relationship between them .
+N133,natural,Qwen,p1,pos,pos,"... an otherwise intense , twist-and-turn thriller that certainly should n't hurt talented young gaghan 's resume ."
+N134,natural,Qwen,p1,pos,pos,a working class `` us vs. them '' opera that leaves no heartstring untugged and no liberal cause unplundered .
+N135,natural,Qwen,p1,pos,pos,"this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other ."
+N136,natural,Qwen,p1,pos,pos,"despite its title , punch-drunk love is never heavy-handed ."
+N137,natural,Qwen,p1,neg,pos,"harrison 's flowers puts its heart in the right place , but its brains are in no particular place at all ."
+N138,natural,Qwen,p1,pos,pos,"based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters"
+N139,natural,Qwen,p1,pos,pos,the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation .
+N140,natural,Qwen,p1,pos,pos,"kinnear does n't aim for our sympathy , but rather delivers a performance of striking skill and depth ."
+N141,natural,Qwen,p1,pos,pos,"a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution ."
+N142,natural,Qwen,p1,pos,pos,"this is a story of two misfits who do n't stand a chance alone , but together they are magnificent ."
+N143,natural,Qwen,p1,pos,pos,the quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy .
+N144,natural,Qwen,p1,pos,pos,not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur .
+N145,natural,Qwen,p1,neg,pos,no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes .
+N146,natural,Qwen,p1,pos,pos,"visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality ."
+N147,natural,Qwen,p1,pos,pos,it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel .
+N148,natural,Qwen,p1,pos,pos,"nine queens is not only than a frighteningly capable debut and genre piece , but also a snapshot of a dangerous political situation on the verge of coming to a head ."
+N000,natural,Qwen,p2,neg,neg,"if looking for a thrilling sci-fi cinematic ride , do n't settle for this imposter ."
+N001,natural,Qwen,p2,neg,neg,the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second .
+N002,natural,Qwen,p2,neg,neg,"the film contains no good jokes , no good scenes , barely a moment when carvey 's saturday night live-honed mimicry rises above the level of embarrassment ."
+N003,natural,Qwen,p2,neg,neg,the script is n't very good ; not even someone as gifted as hoffman ( the actor ) can make it work .
+N004,natural,Qwen,p2,neg,neg,burns never really harnesses to full effect the energetic cast .
+N005,natural,Qwen,p2,neg,neg,"i 've always dreamed of attending cannes , but after seeing this film , it 's not that big a deal ."
+N006,natural,Qwen,p2,neg,neg,"at the very least , if you do n't know anything about derrida when you walk into the theater , you wo n't know much more when you leave ."
+N007,natural,Qwen,p2,neg,neg,stealing harvard aspires to comedic grand larceny but stands convicted of nothing more than petty theft of your time .
+N008,natural,Qwen,p2,neg,neg,"it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks ."
+N009,natural,Qwen,p2,neg,neg,"with the exception of some fleetingly amusing improvisations by cedric the entertainer as perry 's boss , there is n't a redeeming moment here ."
+N010,natural,Qwen,p2,neg,neg,"the title not only describes its main characters , but the lazy people behind the camera as well ."
+N011,natural,Qwen,p2,neg,neg,overall the film feels like a low-budget tv pilot that could not find a buyer to play it on the tube .
+N012,natural,Qwen,p2,neg,neg,no one but a convict guilty of some truly heinous crime should have to sit through the master of disguise .
+N013,natural,Qwen,p2,neg,neg,there 's not enough here to justify the almost two hours .
+N014,natural,Qwen,p2,neg,neg,... nothing scary here except for some awful acting and lame special effects .
+N015,natural,Qwen,p2,neg,neg,the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it .
+N016,natural,Qwen,p2,neg,neg,davis ... is so enamored of her own creation that she ca n't see how insufferable the character is .
+N017,natural,Qwen,p2,neg,neg,what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about .
+N018,natural,Qwen,p2,neg,neg,not since freddy got fingered has a major release been so painful to sit through .
+N019,natural,Qwen,p2,neg,neg,"too often , the viewer is n't reacting to humor so much as they are wincing back in repugnance ."
+N020,natural,Qwen,p2,neg,neg,"in an effort , i suspect , not to offend by appearing either too serious or too lighthearted , it offends by just being wishy-washy ."
+N021,natural,Qwen,p2,neg,neg,"does n't offer much besides glib soullessness , raunchy language and a series of brutal set pieces ... that raise the bar on stylized screen violence ."
+N022,natural,Qwen,p2,neg,neg,there 's no emotional pulse to solaris .
+N023,natural,Qwen,p2,neg,neg,even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor .
+N024,natural,Qwen,p2,neg,neg,"the movie is what happens when you blow up small potatoes to 10 times their natural size , and it ai n't pretty ."
+N025,natural,Qwen,p2,neg,neg,a dumb movie with dumb characters doing dumb things and you have to be really dumb not to see where this is going .
+N026,natural,Qwen,p2,neg,neg,"it 's dumb , but more importantly , it 's just not scary ."
+N027,natural,Qwen,p2,neg,neg,"scores no points for originality , wit , or intelligence ."
+N028,natural,Qwen,p2,neg,neg,not an objectionable or dull film ; it merely lacks everything except good intentions .
+N029,natural,Qwen,p2,neg,neg,"for all the writhing and wailing , tears , rage and opium overdoses , there 's no sense of actual passion being washed away in love 's dissolution ."
+N030,natural,Qwen,p2,neg,neg,"unfortunately , it 's not silly fun unless you enjoy really bad movies ."
+N031,natural,Qwen,p2,neg,neg,the end result is a film that 's neither .
+N032,natural,Qwen,p2,neg,neg,"not only unfunny , but downright repellent ."
+N033,natural,Qwen,p2,neg,neg,"if there 's one thing this world needs less of , it 's movies about college that are written and directed by people who could n't pass an entrance exam ."
+N034,natural,Qwen,p2,neg,neg,"impostor has a handful of thrilling moments and a couple of good performances , but the movie does n't quite fly ."
+N035,natural,Qwen,p2,neg,neg,it 's not the ultimate depression-era gangster movie .
+N036,natural,Qwen,p2,neg,neg,the film 's few ideas are stretched to the point of evaporation ; the whole central section is one big chase that seems to have no goal and no urgency .
+N037,natural,Qwen,p2,neg,neg,"there seems to be no clear path as to where the story 's going , or how long it 's going to take to get there ."
+N038,natural,Qwen,p2,neg,neg,serving sara does n't serve up a whole lot of laughs .
+N039,natural,Qwen,p2,neg,neg,"the film 's hackneyed message is not helped by the thin characterizations , nonexistent plot and pretentious visual style ."
+N040,natural,Qwen,p2,neg,neg,"it 's as if you 're watching a movie that was made in 1978 but not released then because it was so weak , and it has been unearthed and released now , when it has become even weaker ."
+N041,natural,Qwen,p2,neg,neg,"try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! '"
+N042,natural,Qwen,p2,neg,neg,"it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination ."
+N043,natural,Qwen,p2,pos,neg,"the words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate ."
+N044,natural,Qwen,p2,neg,neg,"his last movie was poetically romantic and full of indelible images , but his latest has nothing going for it ."
+N045,natural,Qwen,p2,neg,neg,"this is not the undisputed worst boxing movie ever , but it 's certainly not a champion - the big loser is the audience ."
+N046,natural,Qwen,p2,neg,neg,"with its dogged hollywood naturalism and the inexorable passage of its characters toward sainthood , windtalkers is nothing but a sticky-sweet soap ."
+N047,natural,Qwen,p2,neg,neg,"determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult ."
+N048,natural,Qwen,p2,neg,neg,not really bad so much as distasteful : we need kidnapping suspense dramas right now like we need doomsday thrillers .
+N049,natural,Qwen,p2,neg,neg,"i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand ."
+N050,natural,Qwen,p2,neg,neg,do n't be fooled by the impressive cast list - eye see you is pure junk .
+N051,natural,Qwen,p2,neg,neg,"all the amped-up tony hawk-style stunts and thrashing rap-metal ca n't disguise the fact that , really , we 've been here , done that ."
+N052,natural,Qwen,p2,neg,neg,"it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface ."
+N053,natural,Qwen,p2,neg,neg,involves two mysteries -- one it gives away and the other featuring such badly drawn characters that its outcome hardly matters .
+N054,natural,Qwen,p2,neg,neg,"the movie , directed by mick jackson , leaves no cliche unturned , from the predictable plot to the characters straight out of central casting ."
+N055,natural,Qwen,p2,neg,neg,"it ca n't decide if it wants to be a mystery/thriller , a romance or a comedy ."
+N056,natural,Qwen,p2,neg,neg,... turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock .
+N057,natural,Qwen,p2,neg,neg,a by-the-numbers effort that wo n't do much to enhance the franchise .
+N058,natural,Qwen,p2,neg,neg,the character of zigzag is not sufficiently developed to support a film constructed around him .
+N059,natural,Qwen,p2,neg,neg,"as a rumor of angels reveals itself to be a sudsy tub of supernatural hokum , not even ms. redgrave 's noblest efforts can redeem it from hopeless sentimentality ."
+N060,natural,Qwen,p2,neg,neg,"it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation ."
+N061,natural,Qwen,p2,neg,neg,"it does nothing new with the old story , except to show fisticuffs in this sort of stop-go slow motion that makes the gang rumbles look like they 're being streamed over a 28k modem ."
+N062,natural,Qwen,p2,neg,neg,"for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam ."
+N063,natural,Qwen,p2,pos,neg,"the movie is dawn of the dead crossed with john carpenter 's ghosts of mars , with zombies not as ghoulish as the first and trains not as big as the second ."
+N064,natural,Qwen,p2,neg,neg,"the x potion gives the quickly named blossom , bubbles and buttercup supernatural powers that include extraordinary strength and laser-beam eyes , which unfortunately do n't enable them to discern flimsy screenplays ."
+N065,natural,Qwen,p2,neg,neg,"it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff ."
+N066,natural,Qwen,p2,pos,neg,"sit through this one , and you wo n't need a magic watch to stop time ; your dvd player will do it for you ."
+N067,natural,Qwen,p2,neg,neg,"ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine ."
+N068,natural,Qwen,p2,neg,neg,"you wo n't like roger , but you will quickly recognize him ."
+N069,natural,Qwen,p2,neg,neg,"there is n't nearly enough fun here , despite the presence of some appealing ingredients ."
+N070,natural,Qwen,p2,neg,neg,nervous breakdowns are not entertaining .
+N071,natural,Qwen,p2,neg,neg,"it does n't believe in itself , it has no sense of humor ... it 's just plain bored ."
+N072,natural,Qwen,p2,neg,neg,"while ( hill ) has learned new tricks , the tricks alone are not enough to salvage this lifeless boxing film ."
+N073,natural,Qwen,p2,neg,neg,`` the time machine '' is a movie that has no interest in itself .
+N074,natural,Qwen,p2,neg,neg,"care deftly captures the wonder and menace of growing up , but he never really embraces the joy of fuhrman 's destructive escapism or the grace-in-rebellion found by his characters ."
+N075,natural,Qwen,p2,pos,pos,fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away .
+N076,natural,Qwen,p2,pos,pos,"but taken as a stylish and energetic one-shot , the queen of the damned can not be said to suck ."
+N077,natural,Qwen,p2,neg,pos,reign of fire looks as if it was made without much thought -- and is best watched that way .
+N078,natural,Qwen,p2,pos,pos,you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance .
+N079,natural,Qwen,p2,pos,pos,"whether writer-director anne fontaine 's film is a ghost story , an account of a nervous breakdown , a trip down memory lane , all three or none of the above , it is as seductive as it is haunting ."
+N080,natural,Qwen,p2,pos,pos,"looking aristocratic , luminous yet careworn in jane hamilton 's exemplary costumes , rampling gives a performance that could not be improved upon . '"
+N081,natural,Qwen,p2,pos,pos,"it haunts you , you ca n't forget it , you admire its conception and are able to resolve some of the confusions you had while watching it ."
+N082,natural,Qwen,p2,pos,pos,a good piece of work more often than not .
+N083,natural,Qwen,p2,pos,pos,montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters .
+N084,natural,Qwen,p2,pos,pos,"like mike is a winner for kids , and no doubt a winner for lil bow wow , who can now add movies to the list of things he does well ."
+N085,natural,Qwen,p2,pos,pos,"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving ."
+N086,natural,Qwen,p2,pos,pos,"it has charm to spare , and unlike many romantic comedies , it does not alienate either gender in the audience ."
+N087,natural,Qwen,p2,pos,pos,it 's great escapist fun that recreates a place and time that will never happen again .
+N088,natural,Qwen,p2,pos,pos,"so unassuming and pure of heart , you ca n't help but warmly extend your arms and yell ` safe ! '"
+N089,natural,Qwen,p2,pos,pos,"hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people ."
+N090,natural,Qwen,p2,pos,pos,"it 's so good that its relentless , polished wit can withstand not only inept school productions , but even oliver parker 's movie adaptation ."
+N091,natural,Qwen,p2,neg,pos,"and if you 're not nearly moved to tears by a couple of scenes , you 've got ice water in your veins ."
+N092,natural,Qwen,p2,pos,pos,"highbrow self-appointed guardians of culture need not apply , but those who loved cool as ice have at last found a worthy follow-up ."
+N093,natural,Qwen,p2,neg,pos,"it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise ."
+N094,natural,Qwen,p2,pos,pos,"while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while ."
+N095,natural,Qwen,p2,pos,pos,"a fitfully amusing romp that , if nothing else , will appeal to fans of malcolm in the middle and its pubescent star , frankie muniz ."
+N096,natural,Qwen,p2,pos,pos,"not only is undercover brother as funny , if not more so , than both austin powers films , but it 's also one of the smarter , savvier spoofs to come along in some time ."
+N097,natural,Qwen,p2,pos,pos,"the lion king was a roaring success when it was released eight years ago , but on imax it seems better , not just bigger ."
+N098,natural,Qwen,p2,neg,pos,"not far beneath the surface , this reconfigured tale asks disturbing questions about those things we expect from military epics ."
+N099,natural,Qwen,p2,pos,pos,"an effectively creepy , fear-inducing ( not fear-reducing ) film from japanese director hideo nakata , who takes the superstitious curse on chain letters and actually applies it ."
+N100,natural,Qwen,p2,pos,pos,"no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand ."
+N101,natural,Qwen,p2,pos,pos,"it will grip even viewers who are n't interested in rap , as it cuts to the heart of american society in an unnerving way ."
+N102,natural,Qwen,p2,pos,pos,"it 's about following your dreams , no matter what your parents think ."
+N103,natural,Qwen,p2,pos,pos,it 's refreshing to see a girl-power movie that does n't feel it has to prove anything .
+N104,natural,Qwen,p2,pos,pos,"... a story we have n't seen on the big screen before , and it 's a story that we as americans , and human beings , should know ."
+N105,natural,Qwen,p2,pos,pos,the terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing .
+N106,natural,Qwen,p2,pos,pos,"whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie ."
+N107,natural,Qwen,p2,pos,pos,"the movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb ."
+N108,natural,Qwen,p2,pos,pos,( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful .
+N109,natural,Qwen,p2,pos,pos,cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors .
+N110,natural,Qwen,p2,pos,pos,"about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological ."
+N111,natural,Qwen,p2,pos,pos,a taut psychological thriller that does n't waste a moment of its two-hour running time .
+N112,natural,Qwen,p2,neg,pos,"there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine ."
+N113,natural,Qwen,p2,pos,pos,"nothing 's at stake , just a twisty double-cross you can smell a mile away -- still , the derivative nine queens is lots of fun ."
+N114,natural,Qwen,p2,pos,pos,"not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j.k. rowling 's books ."
+N115,natural,Qwen,p2,pos,pos,"neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula ."
+N116,natural,Qwen,p2,pos,pos,two hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated .
+N117,natural,Qwen,p2,pos,pos,"byler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama ."
+N118,natural,Qwen,p2,pos,pos,a marvel like none you 've seen .
+N119,natural,Qwen,p2,neg,pos,the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned .
+N120,natural,Qwen,p2,pos,pos,the magic of the film lies not in the mysterious spring but in the richness of its performances .
+N121,natural,Qwen,p2,pos,pos,"although german cooking does not come readily to mind when considering the world 's best cuisine , mostly martha could make deutchland a popular destination for hungry tourists ."
+N122,natural,Qwen,p2,neg,pos,"mcconaughey 's fun to watch , the dragons are okay , not much fire in the script ."
+N123,natural,Qwen,p2,pos,pos,"inside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat ."
+N124,natural,Qwen,p2,pos,pos,we have n't seen such hilarity since say it is n't so !
+N125,natural,Qwen,p2,pos,pos,"even if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch ."
+N126,natural,Qwen,p2,pos,pos,"without ever becoming didactic , director carlos carrera expertly weaves this novelistic story of entangled interrelationships and complex morality ."
+N127,natural,Qwen,p2,pos,pos,if your taste runs to ` difficult ' films you absolutely ca n't miss it .
+N128,natural,Qwen,p2,pos,pos,"all-in-all , the film is an enjoyable and frankly told tale of a people who live among us , but not necessarily with us ."
+N129,natural,Qwen,p2,pos,pos,not since tom cruise in risky business has an actor made such a strong impression in his underwear .
+N130,natural,Qwen,p2,pos,pos,"not the kind of film that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit ."
+N131,natural,Qwen,p2,pos,pos,"moody , heartbreaking , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not ."
+N132,natural,Qwen,p2,pos,pos,it 's one heck of a character study -- not of hearst or davies but of the unique relationship between them .
+N133,natural,Qwen,p2,pos,pos,"... an otherwise intense , twist-and-turn thriller that certainly should n't hurt talented young gaghan 's resume ."
+N134,natural,Qwen,p2,pos,pos,a working class `` us vs. them '' opera that leaves no heartstring untugged and no liberal cause unplundered .
+N135,natural,Qwen,p2,pos,pos,"this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other ."
+N136,natural,Qwen,p2,pos,pos,"despite its title , punch-drunk love is never heavy-handed ."
+N137,natural,Qwen,p2,neg,pos,"harrison 's flowers puts its heart in the right place , but its brains are in no particular place at all ."
+N138,natural,Qwen,p2,pos,pos,"based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters"
+N139,natural,Qwen,p2,pos,pos,the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation .
+N140,natural,Qwen,p2,pos,pos,"kinnear does n't aim for our sympathy , but rather delivers a performance of striking skill and depth ."
+N141,natural,Qwen,p2,pos,pos,"a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution ."
+N142,natural,Qwen,p2,pos,pos,"this is a story of two misfits who do n't stand a chance alone , but together they are magnificent ."
+N143,natural,Qwen,p2,pos,pos,the quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy .
+N144,natural,Qwen,p2,pos,pos,not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur .
+N145,natural,Qwen,p2,pos,pos,no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes .
+N146,natural,Qwen,p2,pos,pos,"visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality ."
+N147,natural,Qwen,p2,pos,pos,it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel .
+N148,natural,Qwen,p2,pos,pos,"nine queens is not only than a frighteningly capable debut and genre piece , but also a snapshot of a dangerous political situation on the verge of coming to a head ."
+N000,natural,Qwen,p3,neg,neg,"if looking for a thrilling sci-fi cinematic ride , do n't settle for this imposter ."
+N001,natural,Qwen,p3,neg,neg,the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second .
+N002,natural,Qwen,p3,neg,neg,"the film contains no good jokes , no good scenes , barely a moment when carvey 's saturday night live-honed mimicry rises above the level of embarrassment ."
+N003,natural,Qwen,p3,neg,neg,the script is n't very good ; not even someone as gifted as hoffman ( the actor ) can make it work .
+N004,natural,Qwen,p3,neg,neg,burns never really harnesses to full effect the energetic cast .
+N005,natural,Qwen,p3,neg,neg,"i 've always dreamed of attending cannes , but after seeing this film , it 's not that big a deal ."
+N006,natural,Qwen,p3,neg,neg,"at the very least , if you do n't know anything about derrida when you walk into the theater , you wo n't know much more when you leave ."
+N007,natural,Qwen,p3,neg,neg,stealing harvard aspires to comedic grand larceny but stands convicted of nothing more than petty theft of your time .
+N008,natural,Qwen,p3,neg,neg,"it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks ."
+N009,natural,Qwen,p3,neg,neg,"with the exception of some fleetingly amusing improvisations by cedric the entertainer as perry 's boss , there is n't a redeeming moment here ."
+N010,natural,Qwen,p3,neg,neg,"the title not only describes its main characters , but the lazy people behind the camera as well ."
+N011,natural,Qwen,p3,neg,neg,overall the film feels like a low-budget tv pilot that could not find a buyer to play it on the tube .
+N012,natural,Qwen,p3,neg,neg,no one but a convict guilty of some truly heinous crime should have to sit through the master of disguise .
+N013,natural,Qwen,p3,neg,neg,there 's not enough here to justify the almost two hours .
+N014,natural,Qwen,p3,neg,neg,... nothing scary here except for some awful acting and lame special effects .
+N015,natural,Qwen,p3,neg,neg,the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it .
+N016,natural,Qwen,p3,neg,neg,davis ... is so enamored of her own creation that she ca n't see how insufferable the character is .
+N017,natural,Qwen,p3,neg,neg,what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about .
+N018,natural,Qwen,p3,neg,neg,not since freddy got fingered has a major release been so painful to sit through .
+N019,natural,Qwen,p3,neg,neg,"too often , the viewer is n't reacting to humor so much as they are wincing back in repugnance ."
+N020,natural,Qwen,p3,neg,neg,"in an effort , i suspect , not to offend by appearing either too serious or too lighthearted , it offends by just being wishy-washy ."
+N021,natural,Qwen,p3,neg,neg,"does n't offer much besides glib soullessness , raunchy language and a series of brutal set pieces ... that raise the bar on stylized screen violence ."
+N022,natural,Qwen,p3,neg,neg,there 's no emotional pulse to solaris .
+N023,natural,Qwen,p3,neg,neg,even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor .
+N024,natural,Qwen,p3,neg,neg,"the movie is what happens when you blow up small potatoes to 10 times their natural size , and it ai n't pretty ."
+N025,natural,Qwen,p3,neg,neg,a dumb movie with dumb characters doing dumb things and you have to be really dumb not to see where this is going .
+N026,natural,Qwen,p3,neg,neg,"it 's dumb , but more importantly , it 's just not scary ."
+N027,natural,Qwen,p3,neg,neg,"scores no points for originality , wit , or intelligence ."
+N028,natural,Qwen,p3,neg,neg,not an objectionable or dull film ; it merely lacks everything except good intentions .
+N029,natural,Qwen,p3,neg,neg,"for all the writhing and wailing , tears , rage and opium overdoses , there 's no sense of actual passion being washed away in love 's dissolution ."
+N030,natural,Qwen,p3,neg,neg,"unfortunately , it 's not silly fun unless you enjoy really bad movies ."
+N031,natural,Qwen,p3,neg,neg,the end result is a film that 's neither .
+N032,natural,Qwen,p3,neg,neg,"not only unfunny , but downright repellent ."
+N033,natural,Qwen,p3,neg,neg,"if there 's one thing this world needs less of , it 's movies about college that are written and directed by people who could n't pass an entrance exam ."
+N034,natural,Qwen,p3,neg,neg,"impostor has a handful of thrilling moments and a couple of good performances , but the movie does n't quite fly ."
+N035,natural,Qwen,p3,neg,neg,it 's not the ultimate depression-era gangster movie .
+N036,natural,Qwen,p3,neg,neg,the film 's few ideas are stretched to the point of evaporation ; the whole central section is one big chase that seems to have no goal and no urgency .
+N037,natural,Qwen,p3,neg,neg,"there seems to be no clear path as to where the story 's going , or how long it 's going to take to get there ."
+N038,natural,Qwen,p3,neg,neg,serving sara does n't serve up a whole lot of laughs .
+N039,natural,Qwen,p3,neg,neg,"the film 's hackneyed message is not helped by the thin characterizations , nonexistent plot and pretentious visual style ."
+N040,natural,Qwen,p3,neg,neg,"it 's as if you 're watching a movie that was made in 1978 but not released then because it was so weak , and it has been unearthed and released now , when it has become even weaker ."
+N041,natural,Qwen,p3,neg,neg,"try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! '"
+N042,natural,Qwen,p3,neg,neg,"it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination ."
+N043,natural,Qwen,p3,neg,neg,"the words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate ."
+N044,natural,Qwen,p3,neg,neg,"his last movie was poetically romantic and full of indelible images , but his latest has nothing going for it ."
+N045,natural,Qwen,p3,neg,neg,"this is not the undisputed worst boxing movie ever , but it 's certainly not a champion - the big loser is the audience ."
+N046,natural,Qwen,p3,neg,neg,"with its dogged hollywood naturalism and the inexorable passage of its characters toward sainthood , windtalkers is nothing but a sticky-sweet soap ."
+N047,natural,Qwen,p3,neg,neg,"determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult ."
+N048,natural,Qwen,p3,neg,neg,not really bad so much as distasteful : we need kidnapping suspense dramas right now like we need doomsday thrillers .
+N049,natural,Qwen,p3,neg,neg,"i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand ."
+N050,natural,Qwen,p3,neg,neg,do n't be fooled by the impressive cast list - eye see you is pure junk .
+N051,natural,Qwen,p3,neg,neg,"all the amped-up tony hawk-style stunts and thrashing rap-metal ca n't disguise the fact that , really , we 've been here , done that ."
+N052,natural,Qwen,p3,neg,neg,"it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface ."
+N053,natural,Qwen,p3,neg,neg,involves two mysteries -- one it gives away and the other featuring such badly drawn characters that its outcome hardly matters .
+N054,natural,Qwen,p3,neg,neg,"the movie , directed by mick jackson , leaves no cliche unturned , from the predictable plot to the characters straight out of central casting ."
+N055,natural,Qwen,p3,neg,neg,"it ca n't decide if it wants to be a mystery/thriller , a romance or a comedy ."
+N056,natural,Qwen,p3,neg,neg,... turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock .
+N057,natural,Qwen,p3,neg,neg,a by-the-numbers effort that wo n't do much to enhance the franchise .
+N058,natural,Qwen,p3,neg,neg,the character of zigzag is not sufficiently developed to support a film constructed around him .
+N059,natural,Qwen,p3,neg,neg,"as a rumor of angels reveals itself to be a sudsy tub of supernatural hokum , not even ms. redgrave 's noblest efforts can redeem it from hopeless sentimentality ."
+N060,natural,Qwen,p3,neg,neg,"it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation ."
+N061,natural,Qwen,p3,neg,neg,"it does nothing new with the old story , except to show fisticuffs in this sort of stop-go slow motion that makes the gang rumbles look like they 're being streamed over a 28k modem ."
+N062,natural,Qwen,p3,neg,neg,"for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam ."
+N063,natural,Qwen,p3,neg,neg,"the movie is dawn of the dead crossed with john carpenter 's ghosts of mars , with zombies not as ghoulish as the first and trains not as big as the second ."
+N064,natural,Qwen,p3,neg,neg,"the x potion gives the quickly named blossom , bubbles and buttercup supernatural powers that include extraordinary strength and laser-beam eyes , which unfortunately do n't enable them to discern flimsy screenplays ."
+N065,natural,Qwen,p3,neg,neg,"it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff ."
+N066,natural,Qwen,p3,neg,neg,"sit through this one , and you wo n't need a magic watch to stop time ; your dvd player will do it for you ."
+N067,natural,Qwen,p3,neg,neg,"ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine ."
+N068,natural,Qwen,p3,neg,neg,"you wo n't like roger , but you will quickly recognize him ."
+N069,natural,Qwen,p3,neg,neg,"there is n't nearly enough fun here , despite the presence of some appealing ingredients ."
+N070,natural,Qwen,p3,neg,neg,nervous breakdowns are not entertaining .
+N071,natural,Qwen,p3,neg,neg,"it does n't believe in itself , it has no sense of humor ... it 's just plain bored ."
+N072,natural,Qwen,p3,neg,neg,"while ( hill ) has learned new tricks , the tricks alone are not enough to salvage this lifeless boxing film ."
+N073,natural,Qwen,p3,neg,neg,`` the time machine '' is a movie that has no interest in itself .
+N074,natural,Qwen,p3,neg,neg,"care deftly captures the wonder and menace of growing up , but he never really embraces the joy of fuhrman 's destructive escapism or the grace-in-rebellion found by his characters ."
+N075,natural,Qwen,p3,neg,pos,fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away .
+N076,natural,Qwen,p3,neg,pos,"but taken as a stylish and energetic one-shot , the queen of the damned can not be said to suck ."
+N077,natural,Qwen,p3,neg,pos,reign of fire looks as if it was made without much thought -- and is best watched that way .
+N078,natural,Qwen,p3,pos,pos,you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance .
+N079,natural,Qwen,p3,pos,pos,"whether writer-director anne fontaine 's film is a ghost story , an account of a nervous breakdown , a trip down memory lane , all three or none of the above , it is as seductive as it is haunting ."
+N080,natural,Qwen,p3,pos,pos,"looking aristocratic , luminous yet careworn in jane hamilton 's exemplary costumes , rampling gives a performance that could not be improved upon . '"
+N081,natural,Qwen,p3,pos,pos,"it haunts you , you ca n't forget it , you admire its conception and are able to resolve some of the confusions you had while watching it ."
+N082,natural,Qwen,p3,pos,pos,a good piece of work more often than not .
+N083,natural,Qwen,p3,pos,pos,montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters .
+N084,natural,Qwen,p3,pos,pos,"like mike is a winner for kids , and no doubt a winner for lil bow wow , who can now add movies to the list of things he does well ."
+N085,natural,Qwen,p3,neg,pos,"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving ."
+N086,natural,Qwen,p3,pos,pos,"it has charm to spare , and unlike many romantic comedies , it does not alienate either gender in the audience ."
+N087,natural,Qwen,p3,pos,pos,it 's great escapist fun that recreates a place and time that will never happen again .
+N088,natural,Qwen,p3,pos,pos,"so unassuming and pure of heart , you ca n't help but warmly extend your arms and yell ` safe ! '"
+N089,natural,Qwen,p3,neg,pos,"hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people ."
+N090,natural,Qwen,p3,pos,pos,"it 's so good that its relentless , polished wit can withstand not only inept school productions , but even oliver parker 's movie adaptation ."
+N091,natural,Qwen,p3,neg,pos,"and if you 're not nearly moved to tears by a couple of scenes , you 've got ice water in your veins ."
+N092,natural,Qwen,p3,neg,pos,"highbrow self-appointed guardians of culture need not apply , but those who loved cool as ice have at last found a worthy follow-up ."
+N093,natural,Qwen,p3,neg,pos,"it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise ."
+N094,natural,Qwen,p3,pos,pos,"while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while ."
+N095,natural,Qwen,p3,neg,pos,"a fitfully amusing romp that , if nothing else , will appeal to fans of malcolm in the middle and its pubescent star , frankie muniz ."
+N096,natural,Qwen,p3,pos,pos,"not only is undercover brother as funny , if not more so , than both austin powers films , but it 's also one of the smarter , savvier spoofs to come along in some time ."
+N097,natural,Qwen,p3,pos,pos,"the lion king was a roaring success when it was released eight years ago , but on imax it seems better , not just bigger ."
+N098,natural,Qwen,p3,neg,pos,"not far beneath the surface , this reconfigured tale asks disturbing questions about those things we expect from military epics ."
+N099,natural,Qwen,p3,neg,pos,"an effectively creepy , fear-inducing ( not fear-reducing ) film from japanese director hideo nakata , who takes the superstitious curse on chain letters and actually applies it ."
+N100,natural,Qwen,p3,pos,pos,"no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand ."
+N101,natural,Qwen,p3,pos,pos,"it will grip even viewers who are n't interested in rap , as it cuts to the heart of american society in an unnerving way ."
+N102,natural,Qwen,p3,pos,pos,"it 's about following your dreams , no matter what your parents think ."
+N103,natural,Qwen,p3,pos,pos,it 's refreshing to see a girl-power movie that does n't feel it has to prove anything .
+N104,natural,Qwen,p3,pos,pos,"... a story we have n't seen on the big screen before , and it 's a story that we as americans , and human beings , should know ."
+N105,natural,Qwen,p3,pos,pos,the terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing .
+N106,natural,Qwen,p3,neg,pos,"whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie ."
+N107,natural,Qwen,p3,pos,pos,"the movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb ."
+N108,natural,Qwen,p3,neg,pos,( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful .
+N109,natural,Qwen,p3,pos,pos,cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors .
+N110,natural,Qwen,p3,pos,pos,"about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological ."
+N111,natural,Qwen,p3,pos,pos,a taut psychological thriller that does n't waste a moment of its two-hour running time .
+N112,natural,Qwen,p3,neg,pos,"there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine ."
+N113,natural,Qwen,p3,pos,pos,"nothing 's at stake , just a twisty double-cross you can smell a mile away -- still , the derivative nine queens is lots of fun ."
+N114,natural,Qwen,p3,pos,pos,"not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j.k. rowling 's books ."
+N115,natural,Qwen,p3,pos,pos,"neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula ."
+N116,natural,Qwen,p3,pos,pos,two hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated .
+N117,natural,Qwen,p3,pos,pos,"byler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama ."
+N118,natural,Qwen,p3,pos,pos,a marvel like none you 've seen .
+N119,natural,Qwen,p3,neg,pos,the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned .
+N120,natural,Qwen,p3,neg,pos,the magic of the film lies not in the mysterious spring but in the richness of its performances .
+N121,natural,Qwen,p3,neg,pos,"although german cooking does not come readily to mind when considering the world 's best cuisine , mostly martha could make deutchland a popular destination for hungry tourists ."
+N122,natural,Qwen,p3,neg,pos,"mcconaughey 's fun to watch , the dragons are okay , not much fire in the script ."
+N123,natural,Qwen,p3,pos,pos,"inside the film 's conflict-powered plot there is a decent moral trying to get out , but it 's not that , it 's the tension that keeps you in your seat ."
+N124,natural,Qwen,p3,neg,pos,we have n't seen such hilarity since say it is n't so !
+N125,natural,Qwen,p3,neg,pos,"even if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch ."
+N126,natural,Qwen,p3,pos,pos,"without ever becoming didactic , director carlos carrera expertly weaves this novelistic story of entangled interrelationships and complex morality ."
+N127,natural,Qwen,p3,neg,pos,if your taste runs to ` difficult ' films you absolutely ca n't miss it .
+N128,natural,Qwen,p3,pos,pos,"all-in-all , the film is an enjoyable and frankly told tale of a people who live among us , but not necessarily with us ."
+N129,natural,Qwen,p3,neg,pos,not since tom cruise in risky business has an actor made such a strong impression in his underwear .
+N130,natural,Qwen,p3,neg,pos,"not the kind of film that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit ."
+N131,natural,Qwen,p3,pos,pos,"moody , heartbreaking , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not ."
+N132,natural,Qwen,p3,pos,pos,it 's one heck of a character study -- not of hearst or davies but of the unique relationship between them .
+N133,natural,Qwen,p3,neg,pos,"... an otherwise intense , twist-and-turn thriller that certainly should n't hurt talented young gaghan 's resume ."
+N134,natural,Qwen,p3,neg,pos,a working class `` us vs. them '' opera that leaves no heartstring untugged and no liberal cause unplundered .
+N135,natural,Qwen,p3,neg,pos,"this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other ."
+N136,natural,Qwen,p3,pos,pos,"despite its title , punch-drunk love is never heavy-handed ."
+N137,natural,Qwen,p3,neg,pos,"harrison 's flowers puts its heart in the right place , but its brains are in no particular place at all ."
+N138,natural,Qwen,p3,pos,pos,"based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters"
+N139,natural,Qwen,p3,neg,pos,the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation .
+N140,natural,Qwen,p3,pos,pos,"kinnear does n't aim for our sympathy , but rather delivers a performance of striking skill and depth ."
+N141,natural,Qwen,p3,neg,pos,"a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution ."
+N142,natural,Qwen,p3,pos,pos,"this is a story of two misfits who do n't stand a chance alone , but together they are magnificent ."
+N143,natural,Qwen,p3,pos,pos,the quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy .
+N144,natural,Qwen,p3,pos,pos,not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur .
+N145,natural,Qwen,p3,neg,pos,no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes .
+N146,natural,Qwen,p3,pos,pos,"visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality ."
+N147,natural,Qwen,p3,pos,pos,it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel .
+N148,natural,Qwen,p3,neg,pos,"nine queens is not only than a frighteningly capable debut and genre piece , but also a snapshot of a dangerous political situation on the verge of coming to a head ."

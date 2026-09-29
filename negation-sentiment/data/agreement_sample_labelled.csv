@@ -1,0 +1,81 @@
+item_id,text,label_A,label_B
+S005-contrast,"the photography is lovely , but dull , lifeless , and amateurishly assembled .",neg,neg
+S005-double_negation,"not engaging , lifeless , and amateurishly assembled .",neg,neg
+S011-contrast,"the cast is likable , but detox is ultimately a pointless endeavor .",neg,neg
+S011-double_negation,detox is not ultimately a meaningful endeavor .,neg,neg
+S011-negated_intensifier,detox is not ultimately a very pointless endeavor .,pos,pos
+S011-negation,detox is not ultimately a pointless endeavor .,pos,pos
+S012-negation,"not an overemphatic , would-be wacky , ultimately tedious sex farce .",pos,pos
+S016-intensifier,"the humor is very forced and heavy-handed , and occasionally simply unpleasant .",neg,neg
+S016-seed,"the humor is forced and heavy-handed , and occasionally simply unpleasant .",neg,neg
+S018-contrast,"the cast is likable , but trite , banal , cliched , mostly inoffensive .",neg,neg
+S018-seed,"trite , banal , cliched , mostly inoffensive .",neg,neg
+S020-negation,not a string of rehashed sight gags based in insipid vulgarity .,pos,pos
+S024-intensifier,the very cold turkey would 've been a far better title .,neg,neg
+S031-double_negation,... is not an nimble attempt at directing by callie khouri .,neg,neg
+S031-intensifier,... is an very arthritic attempt at directing by callie khouri .,neg,neg
+S032-contrast,"the photography is lovely , but the heavy-handed film is almost laughable as a consequence .",neg,neg
+S033-double_negation,not too much of the humor falls vivid .,neg,neg
+S033-negated_intensifier,not too much of the humor falls very flat .,pos,pos
+S033-seed,too much of the humor falls flat .,neg,neg
+S034-intensifier,i had to look away - this was god very awful .,neg,neg
+S034-seed,i had to look away - this was god awful .,neg,neg
+S041-double_negation,this movie is not satisfying .,neg,neg
+S046-contrast,"the photography is lovely , but a sequence of ridiculous shoot - 'em - up scenes .",neg,neg
+S046-double_negation,not a sequence of convincing shoot - 'em - up scenes .,neg,neg
+S046-seed,a sequence of ridiculous shoot - 'em - up scenes .,neg,neg
+S049-double_negation,as tasteful as it is not banal .,pos,pos
+S049-intensifier,as very vulgar as it is banal .,neg,neg
+S049-seed,as vulgar as it is banal .,neg,neg
+S064-intensifier,a very valueless kiddie paean to pro basketball underwritten by the nba .,neg,neg
+S064-negated_intensifier,not a very valueless kiddie paean to pro basketball underwritten by the nba .,pos,pos
+S064-seed,a valueless kiddie paean to pro basketball underwritten by the nba .,neg,neg
+S068-contrast,"the idea is promising , but an unclassifiably awful study in self - and audience-abuse .",neg,neg
+S068-double_negation,not an unclassifiably great study in self - and audience-abuse .,neg,neg
+S068-negated_intensifier,not an unclassifiably very awful study in self - and audience-abuse .,pos,pos
+S068-seed,an unclassifiably awful study in self - and audience-abuse .,neg,neg
+S072-seed,too much of it feels unfocused and underdeveloped .,neg,neg
+S073-negated_intensifier,"it 's not very slow -- very , very slow .",neg,neg
+S073-negation,"it 's not slow -- very , very slow .",neg,neg
+S073-seed,"it 's slow -- very , very slow .",neg,neg
+S074-negation,not a coarse and stupid gross-out .,pos,pos
+S074-seed,a coarse and stupid gross-out .,neg,neg
+S076-double_negation,not a sometimes enjoyable film .,neg,neg
+S076-negated_intensifier,not a sometimes very tedious film .,pos,pos
+S076-negation,not a sometimes tedious film .,pos,pos
+S076-seed,a sometimes tedious film .,neg,neg
+S085-negation,"not a very well-made , funny and entertaining picture .",neg,neg
+S089-contrast,"the pacing drags , but it 's a stunning lyrical work of considerable force and truth .",pos,pos
+S089-seed,it 's a stunning lyrical work of considerable force and truth .,pos,pos
+S090-intensifier,it 's a very charming and often affecting journey .,pos,pos
+S090-negation,it 's not a charming and often affecting journey .,neg,neg
+S096-contrast,"the dialogue is clumsy , but the story and structure are well-honed .",pos,pos
+S102-double_negation,ahhhh ... revenge is not sour !,pos,pos
+S104-contrast,"the ending falls flat , but a deep and meaningful film .",pos,pos
+S104-double_negation,not a shallow and meaningful film .,pos,pos
+S104-seed,a deep and meaningful film .,pos,pos
+S105-negation,not dense with characters and contains some thrilling moments .,neg,neg
+S116-seed,"the film is quiet , threatening and unforgettable .",pos,pos
+S119-negation,"not a quiet , pure , elliptical film",neg,neg
+S121-negation,good old-fashioned slash-and-hack is not back !,neg,neg
+S124-negation,"it 's not also , clearly , great fun .",neg,neg
+S124-seed,"it 's also , clearly , great fun .",pos,pos
+S125-double_negation,it 's not a ugly madness .,pos,pos
+S125-intensifier,it 's a very beautiful madness .,pos,pos
+S125-negated_intensifier,it 's not a very beautiful madness .,neg,neg
+S130-negation,not a subtle and well-crafted ( for the most part ) chiller .,neg,neg
+S137-double_negation,not a painfully unfunny ode to bad behavior .,pos,pos
+S137-seed,a painfully funny ode to bad behavior .,pos,pos
+S144-contrast,"the ending falls flat , but his healthy sense of satire is light and fun ...",pos,pos
+S144-intensifier,his very healthy sense of satire is light and fun ...,pos,pos
+S144-seed,his healthy sense of satire is light and fun ...,pos,pos
+S151-seed,reggio 's continual visual barrage is absorbing as well as thought-provoking .,pos,pos
+S161-double_negation,"not a ugly , witty , seductive movie .",pos,pos
+S168-contrast,"the dialogue is clumsy , but a strangely compelling and brilliantly acted psychological drama .",pos,pos
+S168-double_negation,not a strangely tiresome and brilliantly acted psychological drama .,pos,pos
+S168-negated_intensifier,not a strangely very compelling and brilliantly acted psychological drama .,neg,neg
+S168-negation,not a strangely compelling and brilliantly acted psychological drama .,neg,neg
+S169-double_negation,the film 's not performances are dull .,neg,neg
+S173-contrast,"the dialogue is clumsy , but the film is powerful , accessible and funny .",pos,pos
+S173-negation,"the film is not powerful , accessible and funny .",neg,neg
+S173-seed,"the film is powerful , accessible and funny .",pos,pos

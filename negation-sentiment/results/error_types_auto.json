@@ -1,0 +1,24 @@
+{
+  "counts": {
+    "Qwen": 68,
+    "RoBERTa": 47,
+    "VADER": 81
+  },
+  "shares": {
+    "Qwen": {
+      "operator ignored": 56.0,
+      "already wrong on the seed": 4.0,
+      "over-applied / other": 40.0
+    },
+    "RoBERTa": {
+      "operator ignored": 74.0,
+      "already wrong on the seed": 0.0,
+      "over-applied / other": 26.0
+    },
+    "VADER": {
+      "operator ignored": 48.0,
+      "already wrong on the seed": 43.0,
+      "over-applied / other": 9.0
+    }
+  }
+}
